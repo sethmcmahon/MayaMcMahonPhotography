@@ -1,0 +1,122 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="site.master.cs" Inherits="site" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<head runat="server" id="myHead">
+    <!-- Basic Page Needs
+  ================================================== -->
+    <meta charset="utf-8"/>
+    <meta name="keywords" content="Wedding, Weddings, Photography, Portrait, Portraits, Christiansburg, Blacksburg, Radford, Salem, Roanoke, Photographer, Virginia, New River Valley, Engagement, Bride, Groom, Ceremony, Reception, Photo, Photos, Pictures, Digital, Virginia Tech, Virginia Tech Wedding photographer, wedding photographer, engagement photographer, portrait photographer, baby photographer, family photographer, pet photographer, business phototographer, marketing photographer, business photography, marketing photography " />
+    <meta name="description" content="Maya McMahon Photography provides wedding, portrait, and event photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke." />
+
+    <!-- Mobile Specific Metas
+	================================================== -->
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+    
+    <!-- Supersized styles
+    ================================================== -->
+    <link rel="stylesheet" href="css/supersized.css" type="text/css" media="screen"/>
+    
+    <!-- CSS
+	================================================== -->
+    <link href='http://fonts.googleapis.com/css?family=Prata' rel='stylesheet' type='text/css'/>
+    <link href='http://fonts.googleapis.com/css?family=Rancho' rel='stylesheet' type='text/css'/>
+    <link rel="stylesheet" href="css/flexslider.css" type="text/css"/>
+    <link rel="stylesheet" href="css/skeleton.css" type="text/css"/>
+	<link rel="stylesheet" href="css/cart.css" type="text/css"/>
+    <link rel="stylesheet" href="style.css" type="text/css"/>
+    
+    
+    <!-- Favicons
+    ================================================== -->
+    <link rel="shortcut icon" href="images/favicon.ico"/>
+    <link rel="apple-touch-icon" href="images/apple-touch-icon.png"/>
+    <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png"/>
+    <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png"/>
+    
+    <!-- Javascript resources
+    ================================================== -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+    <script src="js/superfish.js"></script>
+    <script src="js/scripts.js"></script>
+    <script src="js/jquery.flexslider-min.js"></script>
+    <script src="js/jquery.isotope.min.js"></script>
+	<script type="text/javascript" src="js/jquery-ui-1.9.0.custom.min.js"></script>
+
+    <script type="text/javascript">
+
+        $(window).load(function () {
+            $('.flexslider').flexslider()
+        });
+
+        $(document).ready(function () {
+            var pathname = window.location.pathname;
+
+            if (pathname == '/index.aspx' || pathname == '/') {
+                $('#footer-wrap').hide();
+            }
+            else {
+                var quotes = [
+                    "&quot;Maya is professional, prompt, courteous, patient, and reasonably priced. We are very happy with our experience!&quot;</br></br>- Tina Witcher",
+                    "&quot;We had such a great time with you Maya!! Thanks for doing amazing work!&quot;</br></br>- Meghan Juanarena",
+                    "&quot;She was more than willing to work with our young children and was very patient with them. We captured some great family and individual pictures. She was also more than willing to go anywhere that we wanted to take the pictures. We would highly recommend Maya McMahon Photography.&quot;</br></br>- Katrina Lasley",
+                    "&quot;She is absolutely wonderful as a person and a photographer! We totally lucked out finding Maya!&quot;</br></br>- Alicia Repp",
+                    "&quot;Maya was very easy to work with and also very easy to talk to. She had so much patience with my 2 year old running all over the place and my 3 week old. She had great ideas and was more then willing to hear what ideas I had. She was very fast to respond to all the questions I had. Overall I had a great experience with her and I will be going back to her for future pictures.&quot;</br></br>- Kristie Keltz",
+                    "&quot;The pictures are amazing! I can't thank you enough. I can't wait to work with you again.&quot;</br></br>- Caity",
+                    "&quot;We will definitely be recommending you to friends when they need a photographer in the area!&quot;</br></br>- Christina"
+                ];
+                var max = quotes.length - 1;
+                var min = 0;
+
+                // Start with a random quote each time a page loads
+                var i = Math.floor(Math.random() * (max - min + 1)) + min;
+
+                $("#Testimonials").html(quotes[i]);
+
+                setInterval(function () {
+                    $("#Testimonials").html(quotes[i]);
+                    if (i == quotes.length)
+                        i = 0;
+                    else
+                        i++;
+                }, 4000);
+            }
+        });
+
+
+    </script>
+
+    <%--Google Analytics--%>
+    <script type="text/javascript">
+        var _gaq = _gaq || [];
+        _gaq.push(['_setAccount', 'UA-28765156-1']);
+        _gaq.push(['_trackPageview']);
+
+        (function () {
+            var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+            ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+    </script>
+
+    <!-- PrettyPhoto
+	================================================== -->
+	<link rel="stylesheet" href="css/prettyPhoto.css" type="text/css"/>
+	<script src="js/jquery.prettyPhoto.js"></script>
+    
+     <!-- Modernizr
+    ================================================== --> 
+    <script type="text/javascript" src="js/modernizr.js"></script>
+</head>
+<body>
+    <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">
+        
+    </asp:ContentPlaceHolder>
+    <div id="footer-wrap">
+    	<footer class="container footer">
+            <div id="Testimonials" style="font-family: 'Rancho', cursive; font-size: 19px; color:#7d7d7d;"><p></p></div>
+    	</footer>
+    </div><!-- /footer-wrap -->
+</body>
+</html>
