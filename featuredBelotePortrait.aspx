@@ -48,83 +48,36 @@
 							<h4>Misty Mountain Lodge</h4>
 							<p>Jenny and I met up at the Mountain Lake Lodge where the movie Dirty Dancing was filmed. The mist that was carpeting the property was actually forming ice on the trees and grass. We had a great time wandering the property and trying to figure out where different scenes from the movie were filmed. Little did we know.. there was a map of those sites in a small display outside the Lodge.  Jenny is my son's daycare teacher. I love her good nature and enthusiasm. Despite the chilly fingers and hands we had the time of our lives....</br></br></p>
 						</article><!-- /post -->
-						
+						<article class="entry">
+                            <h6>Location:</h6>
+                            <div itemscope itemtype="http://schema.org/CreativeWork">
+                                <div itemprop="provider" itemscope itemtype="http://schema.org/Person">
+                                    <meta itemprop="name" content="Maya McMahon" />
+                                    <div itemprop="affiliation" itemscope itemtype="http://schema.org/Organization">
+                                        <meta itemprop="name" content="Maya McMahon Photography" />
+                                        <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                            <meta itemprop="addressLocality" content="Blacksburg" />
+                                            <meta itemprop="addressRegion" content="VA" />
+                                            <meta itemprop="postalCode" content="24060" />
+                                        </div>
+                                    </div>
+                                </div>
+                                <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                    <a itemprop="url" href="http://www.mtnlakelodge.com" target="_blank">Mountain Lake Lodge</a>
+                                    <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                        <span itemprop="streetAddress">115 Hotel Circle</span><br />
+                                        <span itemprop="addressLocality">Pembroke</span>,
+                                        <span itemprop="addressRegion">VA</span>
+                                        <span itemprop="postalCode">24136</span>
+                                    </div>
+                                </div>
+                            </div>
+						</article><!-- /post -->
 					</div><!-- sixteen -->
-<%--		        	<div class="eight columns omega">
-		        		
-		        		<div id="related-items">
-		                	<h3 class="widget-title"><span>Related Galleries</span></h3>
-					      	
-					      	<div class="row">
-						      	<article class="four columns alpha set">
-									<img src="dummy/related01.jpg" alt="" class="scale-with-grid" />
-									<a href="#">Set title</a>
-									<div class="zoom">
-										<a href="dummy/sl01.jpg" rel="pp" class="view-set">View set</a>
-										<a href="#" class="view-article">View article</a>
-									</div>	
-								</article><!-- /set -->							
-								<article class="four columns omega set">
-									<img src="dummy/related02.jpg" alt="" class="scale-with-grid" />
-									<a href="#">Set title</a>
-									<div class="zoom">
-										<a href="dummy/sl01.jpg" rel="pp" class="view-set">View set</a>
-										<a href="#" class="view-article">View article</a>
-									</div>	
-								</article><!-- /set -->
-						      	<article class="four columns alpha set">
-									<img src="dummy/related02.jpg" alt="" class="scale-with-grid" />
-									<a href="#">Set title</a>
-									<div class="zoom">
-										<a href="dummy/sl01.jpg" rel="pp" class="view-set">View set</a>
-										<a href="#" class="view-article">View article</a>
-									</div>	
-								</article><!-- /set -->							
-								<article class="four columns omega set">
-									<img src="dummy/related01.jpg" alt="" class="scale-with-grid" />
-									<a href="#">Set title</a>
-									<div class="zoom">
-										<a href="dummy/sl01.jpg" rel="pp" class="view-set">View set</a>
-										<a href="#" class="view-article">View article</a>
-									</div>	
-								</article><!-- /set -->
-					      	</div><!-- /row -->	
-	
-		                </div><!-- /related-articles -->
-		        		
-		        	</div>--%>
 		        </div><!-- /row -->	
             </div><!-- /row -->			
-         
         </div><!-- /main -->
     </div><!-- /container -->
-    
-<%--    <div id="footer-wrap">
-
-    	<footer class="container footer">
-    		<div class="sixteen columns">
-	    		<aside class="one-third column alpha widget_text widget group">
-                    <h3><span>Text widget</span></h3>
-                    <div class="textwidget">
-                        <p>Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante.</p>
-                    </div>
-                </aside>
-	    		<aside class="one-third column widget_text widget group">
-                    <h3><span>Text widget</span></h3>
-                    <div class="textwidget">
-                        <p>Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante.</p>
-                    </div>
-                </aside>
-	    		<aside class="one-third column omega widget_text widget group">
-                    <h3><span>Text widget</span></h3>
-                    <div class="textwidget">
-                        <p>Nulla at nulla justo, eget luctus tortor. Nulla facilisi. Duis aliquet egestas purus in blandit. Curabitur vulputate, ligula lacinia scelerisque tempor, lacus lacus ornare ante.</p>
-                    </div>
-                </aside>
-    		</div><!-- /sixteen -->
-    	</footer>
-    </div><!-- /footer-wrap -->--%>
-    
     
     <b id="t" class="brd"></b> <b id="l" class="brd"></b> <b id="r" class="brd"></b> <b id="b" class="brd"></b>
 </asp:Content>
