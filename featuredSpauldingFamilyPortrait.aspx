@@ -29,7 +29,7 @@
                         </div>
                     </div>
                 </div>
-                <meta itemprop="genre" content="Portrait Photography" />
+                <meta itemprop="genre" content="Family Photography" />
                 <meta itemprop="isFamilyFriendly" content="True" />
 
                 <h2 class="page-title">Spaulding Family</h2>            
