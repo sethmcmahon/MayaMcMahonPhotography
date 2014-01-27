@@ -102,7 +102,7 @@ public partial class site : System.Web.UI.MasterPage
         }
         else
         {
-            title.Text = "Maya McMahon Photography - Professional Photographer";
+            title.Text = "Blacksburg Wedding Photographer - Maya McMahon Photography - Professional Photography - Virginia";
         }
 
         myHead.Controls.Add(title);
