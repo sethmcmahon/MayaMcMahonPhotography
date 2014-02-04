@@ -23,24 +23,25 @@
                 
                 <article class="entry">
 					<h4>Wedding:</h4>
-	                <p><img src="dummy/Pricing/wedding.jpg" alt="" class="alignleft">Your wedding day is one of the most important days of your life and choosing a photographer to
-capture those lasting memories is an important decision. As a photographer, I want to get to know
-you as a couple so I can help make your wedding memories special.</br></br>
+	                <p><img src="dummy/Pricing/wedding.jpg" alt="" class="alignleft">
 Wedding packages start at $1000. All packages include a DVD of all your images along with
-an online gallery for viewing. Please <a href="contact.aspx">contact me</a> for more complete package pricing.</br></br></p>
+an online gallery for viewing. Please <a href="contact.aspx">contact me</a> for more complete package pricing.</br></br>
+                        Your wedding day is one of the most important days of your life and choosing a photographer to
+capture those lasting memories is an important decision. As a photographer, I want to get to know
+you as a couple so I can help make your wedding memories special.</br></br></p>
 
 					<h4>Engagement:</h4>
 
-	                <p><img src="dummy/Pricing/engagement.jpg" alt="" class="alignright">An engagement session is a great way for you to capture a moment in time with your loved one, before your big day.
-You will always remember all of the excitement leading up to your big day. Share these feelings with your family and friends through memorable photographs.</br></br>
-Packages start at $300. All packages include a DVD of all your images along with an
-online gallery for viewing. Please contact me for more complete package pricing.</br></br></p>
+	                <p><img src="dummy/Pricing/engagement.jpg" alt="" class="alignright">Engagement packages start at $300. All packages include a DVD of all your images along with an
+online gallery for viewing. Please <a href="contact.aspx">contact me</a> for more complete package pricing.</br></br>
+                        An engagement session is a great way for you to capture a moment in time with your loved one, before your big day.
+You will always remember all of the excitement leading up to your big day. Share these feelings with your family and friends through memorable photographs.</br></br></p>
 
 					<h4>Family, Maternity, Newborn:</h4>
-					<p><img src="dummy/Pricing/family.jpg" alt="" class="alignleft">An expecting mother and family, or a newborn addition to your family, you should look for a professional photographer.
-Milestones like graduation and pausing to bring your family together for quality photographs will allow you to always look back at the special times in your life.</br></br>
-					Packages start at $60. Session is in a place of your choosing, we can meet at a local
-park, sporting event, or in the comfort of your home. Please contact me for more complete package pricing.</br></br></p>
+					<p><img src="dummy/Pricing/family.jpg" alt="" class="alignleft">Packages start at $60. Session is in a place of your choosing, we can meet at a local
+park, sporting event, or in the comfort of your home. Please <a href="contact.aspx">contact me</a> for more complete package pricing.</br></br>
+                        An expecting mother and family, or a newborn addition to your family, you should look for a professional photographer.
+Milestones like graduation and pausing to bring your family together for quality photographs will allow you to always look back at the special times in your life.</br></br></p>
                 </article><!-- /post -->
                 
             </div><!-- sixteen -->
