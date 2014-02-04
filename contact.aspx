@@ -27,15 +27,8 @@
 		        <div class="row set-content">
 		        	<div class="two-thirds column alpha">
 	
-		                <p>Our goal is to provide our clients with high quality, creative photographs,
-capturing memories that last a lifetime. Maya McMahon Photography provides professional photography services for
-locations around Christiansburg, Blacksburg and throughout Giles, Montgomery
-and Roanoke counties. Maya McMahon Photography is happy to travel beyond this area as well. <br/><br/>
-
-Feel free to contact me any time. I look forward to speaking with you about your desired photo session.</p>
-		                
 		                <div id="form-wrapper" class="row">
-				        <h3 class="widget-title"><span>Book Now</span></h3>
+				        <h3 class="widget-title"><span>Contact Me</span></h3>
 				        <div class="post-form">
 				            <form id="contactform" runat="server">
 				                <p>
@@ -50,12 +43,18 @@ Feel free to contact me any time. I look forward to speaking with you about your
                                 <asp:Button id="BookNow" 
                                     runat="server" 
                                     onclick="BookNow_Click" 
-                                    Text="Book Now" CssClass="button fbutton">
+                                    Text="Submit" CssClass="button fbutton">
                                 </asp:Button>
 				            </form>
 				        </div><!-- /post-form -->
 				    </div><!-- /form-wrapper -->	
-	
+                        <h3 class="widget-title"><span>About Maya McMahon Photography</span></h3>
+		                <p>Our goal is to provide our clients with high quality, creative photographs,
+capturing memories that last a lifetime. Maya McMahon Photography provides professional photography services for
+locations around Christiansburg, Blacksburg and throughout Giles, Montgomery
+and Roanoke counties. Maya McMahon Photography is happy to travel beyond this area as well. <br/><br/>
+
+Feel free to contact me any time. I look forward to speaking with you about your desired photo session.</p>	
 		        	</div>
 		        	
 		        	<div class="one-third column omega">

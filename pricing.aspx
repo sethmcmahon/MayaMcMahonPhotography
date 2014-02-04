@@ -27,7 +27,7 @@
 capture those lasting memories is an important decision. As a photographer, I want to get to know
 you as a couple so I can help make your wedding memories special.</br></br>
 Wedding packages start at $1000. All packages include a DVD of all your images along with
-an online gallery for viewing. <a href="buildYourWeddingPackage.aspx">Build Your Wedding Package</a> or please contact me for more complete package pricing.</br></br></p>
+an online gallery for viewing. Please <a href="contact.aspx">contact me</a> for more complete package pricing.</br></br></p>
 
 					<h4>Engagement:</h4>
 

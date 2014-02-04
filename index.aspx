@@ -69,7 +69,7 @@
 		</article><!-- /set -->
 		<article class="four columns omega set">
 			<img src="dummy/memories.jpg" alt="Book Your Photography Session" class="scale-with-grid" />
-			<a href="contact.aspx">Book Now</a>
+			<a href="contact.aspx">Contact Me</a>
 			<div class="zoom" onclick="location.href='contact.aspx';">
 				<a href="dummy/memoriesbig.jpg" class="view-set"></a>
 			</div>	
