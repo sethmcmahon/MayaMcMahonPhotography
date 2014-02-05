@@ -13,19 +13,22 @@ public partial class contact : System.Web.UI.Page
         {
             try
             {
-                client.EnableSsl = true;
-                client.UseDefaultCredentials = false;
-                client.Credentials = new NetworkCredential("seth.mcmahon@gmail.com", "P@radigm");
-                var mail = new MailMessage();
-                mail.From = new MailAddress("seth.mcmahon@gmail.com");
-                mail.To.Add("maya.mcmahon@gmail.com");
-                mail.Subject = "Book Now Request From Maya McMahon Photography Website";
-                mail.Body = "Name: " + Name.Text + "\n";
-                mail.Body += "Email: " + Email.Text + "\n";
-                mail.Body += "Comment: " + Comment.Text + "\n";
-                client.Send(mail);
+                if (string.IsNullOrEmpty(SpamCheck.Text))
+                {
+                    client.EnableSsl = true;
+                    client.UseDefaultCredentials = false;
+                    client.Credentials = new NetworkCredential("seth.mcmahon@gmail.com", "P@radigm");
+                    var mail = new MailMessage();
+                    mail.From = new MailAddress("seth.mcmahon@gmail.com");
+                    mail.To.Add("maya.mcmahon@gmail.com");
+                    mail.Subject = "Book Now Request From Maya McMahon Photography Website";
+                    mail.Body = "Name: " + Name.Text + "\n";
+                    mail.Body += "Email: " + Email.Text + "\n";
+                    mail.Body += "Comment: " + Comment.Text + "\n";
+                    client.Send(mail);
 
-                Response.Write("<script>alert('Thanks for your Book Now request. Maya will be in touch with you soon.');</script>");
+                    Response.Write("<script>alert('Thanks for your interest in Maya McMahon Photography. Maya will be in touch with you soon.');</script>");
+                }
             }
             catch (Exception ex)
             {

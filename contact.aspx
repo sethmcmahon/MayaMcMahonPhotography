@@ -39,6 +39,7 @@
      				            <p>
 				                    <label>Comment:</label> <asp:TextBox ID="Comment" TextMode="MultiLine" Columns="5" Rows="5" runat="server" CssClass="text" />
 				                </p>
+                                <asp:TextBox ID="SpamCheck" runat="server" style="display: none;" CssClass="text" />
                                 <asp:Button id="BookNow" 
                                     runat="server" 
                                     onclick="BookNow_Click" 
