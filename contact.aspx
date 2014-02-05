@@ -26,7 +26,6 @@
 	        
 		        <div class="row set-content">
 		        	<div class="two-thirds column alpha">
-	
 		                <div id="form-wrapper" class="row">
 				        <h3 class="widget-title"><span>Contact Me</span></h3>
 				        <div class="post-form">
@@ -60,6 +59,11 @@ Feel free to contact me any time. I look forward to speaking with you about your
 		        	<div class="one-third column omega">
 		        		
 				        <aside class="widget_ci_about_widget widget group">
+                            <h3><span></span></h3>
+                           Maya McMahon Photography<br />
+                           Phone: 607-756-9028<br />
+                           Email: <a href="mailto:maya@mayamcmahonphotography.com">maya@mayamcmahonphotography.com</a><br /><br />
+                           
 		                    <h3><span>About me</span></h3>
 		                    <div class="widget_about group">
 		                        <img src="dummy/contact/about.jpg" class="alignleft" alt="about me">I have loved photography since I was a little
