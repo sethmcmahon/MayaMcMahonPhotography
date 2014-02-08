@@ -88,6 +88,10 @@ li { margin-bottom: 12px; line-height: 18px; }
 ul.large li { line-height: 21px; }
 li p { line-height: 21px; }
 
+#bulletList { }
+#bulletList ul { margin-left:70px; list-style-image: url("img/listItem.png"); }
+#bulletList ul li { list-style-image: url("img/listItem.png"); line-height:10px; }
+
 /* #Images
 ================================================== */
 img.scale-with-grid { max-width: 100%; height: auto; }

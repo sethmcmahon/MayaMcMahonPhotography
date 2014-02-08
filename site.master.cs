@@ -32,6 +32,22 @@ public partial class site : System.Web.UI.MasterPage
         {
             title.Text = "Photography Pricing";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("pricingWedding.aspx"))
+        {
+            title.Text = "Wedding Photography Pricing";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("pricingEngagement.aspx"))
+        {
+            title.Text = "Engagement Photography Pricing";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("pricingFamily.aspx"))
+        {
+            title.Text = "Family, Maternity, Newborn Photography Pricing";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("pricingEvent.aspx"))
+        {
+            title.Text = "Event Photography Pricing";
+        }
         else if (Request.CurrentExecutionFilePath.Contains("contact.aspx"))
         {
             title.Text = "Contact Photographer";
