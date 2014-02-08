@@ -70,11 +70,19 @@
     <loc>http://www.mayamcmahonphotography.com/featuredJuanarenaMaternity.aspx</loc>
   </url>
   <url>
-    <loc>http://www.mayamcmahonphotography.com/pricing.aspx</loc>
+    <loc>http://www.mayamcmahonphotography.com/pricingEngagement.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://www.mayamcmahonphotography.com/buildYourWeddingPackage.aspx</loc>
+    <loc>http://www.mayamcmahonphotography.com/pricingWedding.aspx</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.mayamcmahonphotography.com/pricingEvent.aspx</loc>
+    <changefreq>weekly</changefreq>
+  </url>
+  <url>
+    <loc>http://www.mayamcmahonphotography.com/pricingFamily.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
