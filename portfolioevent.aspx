@@ -73,6 +73,12 @@
 						<a href="dummy/PortfolioEvent/9large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
+				<article class="one-third column alpha set">
+					<img src="dummy/PortfolioEvent/10small.jpg" alt="Birthday Event Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioEvent/10large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
             </div><!-- /row -->            
         </div><!-- /main -->
     </div><!-- /container -->    

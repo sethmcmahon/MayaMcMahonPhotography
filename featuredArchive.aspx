@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredMarkeatterFamilyEvent.aspx"><img src="dummy/featuredArchive/featuredMarkeatterFamilyEvent.jpg" alt="" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Markeatter 80th Birthday</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredJuanarenaMaternity.aspx"><img src="dummy/featuredArchive/featuredJuanarenaMaternity.jpg" alt="" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Brian and Meghan</h2>
 					</li>

@@ -58,63 +58,67 @@ public partial class site : System.Web.UI.MasterPage
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredEgeWedding.aspx"))
         {
-            title.Text = "Ege Wedding";
+            title.Text = "Ege Wedding Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredKirknerMaternity.aspx"))
         {
-            title.Text = "Kirkner Maternity";
+            title.Text = "Kirkner Maternity Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredCafaroWedding.aspx"))
         {
-            title.Text = "Cafaro Wedding";
+            title.Text = "Cafaro Wedding Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredBarnesPortrait.aspx"))
         {
-            title.Text = "Barnes Portrait";
+            title.Text = "Barnes Portrait Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredHaydenNewborn.aspx"))
         {
-            title.Text = "Hayden Newborn";
+            title.Text = "Hayden Newborn Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredKatrinaFamilyPortrait.aspx"))
         {
-            title.Text = "Katrina Family Portrait";
+            title.Text = "Katrina Family Portrait Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredWyattNewborn.aspx"))
         {
-            title.Text = "Wyatt Newborn";
+            title.Text = "Wyatt Newborn Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredCarlCaityEngagement.aspx"))
         {
-            title.Text = "Carl Caity Engagement";
+            title.Text = "Carl Caity Engagement Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredRamseyWedding.aspx"))
         {
-            title.Text = "Ramsey Wedding";
+            title.Text = "Ramsey Wedding Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredKaylorWedding.aspx"))
         {
-            title.Text = "Kaylor Wedding";
+            title.Text = "Kaylor Wedding Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredEasyWindBridalSession.aspx"))
         {
-            title.Text = "Easy Wind Bridal Session";
+            title.Text = "Easy Wind Bridal Session Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredSpauldingFamilyPortrait.aspx"))
         {
-            title.Text = "Spaulding Family Portrait";
+            title.Text = "Spaulding Family Portrait Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredWitcherFamilyPortrait.aspx"))
         {
-            title.Text = "Witcher Family Portrait";
+            title.Text = "Witcher Family Portrait Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredBelotePortrait.aspx"))
         {
-            title.Text = "Belote Portrait";
+            title.Text = "Belote Portrait Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredJuanarenaMaternity.aspx"))
         {
-            title.Text = "Juanarena Maternity";
+            title.Text = "Juanarena Maternity Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredMarkeatterFamilyEvent.aspx"))
+        {
+            title.Text = "Markeatter Event Photography";
         }
         else
         {
