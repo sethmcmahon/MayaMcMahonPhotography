@@ -120,6 +120,10 @@ public partial class site : System.Web.UI.MasterPage
         {
             title.Text = "Markeatter Event Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredAliagaFamilyPortrait.aspx"))
+        {
+            title.Text = "Aliaga Family Portrait Photography";
+        }
         else
         {
             title.Text = "Blacksburg Wedding Photographer - Maya McMahon Photography - Professional Photography - Virginia";
