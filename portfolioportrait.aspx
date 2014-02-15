@@ -20,6 +20,18 @@
             <h2 class="page-title">Portrait</h2>            
             <div class="row col-listing">
 				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/18small.jpg" alt="Infant Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/18large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->	
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/19small.jpg" alt="Infant Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/19large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->	
+				<article class="one-third column omega set">
 					<img src="dummy/PortfolioPortrait/15small.jpg" alt="Family Portfolio Photograph" class="scale-with-grid" />
 					<div class="zoom">
 						<a href="dummy/PortfolioPortrait/15large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
