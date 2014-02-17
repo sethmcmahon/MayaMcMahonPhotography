@@ -135,12 +135,17 @@ input[type=submit] { background:#dc5d2a; color:#fff; border:none; cursor: pointe
 #header .row { margin-bottom:0; }
 #logo { float:left; margin-bottom:0; line-height: 0; }
 
+/* #Copyright
+================================================== */
+#copyright {margin-right: 20px; margin-bottom: 15px; float:right; font-size: 10px; color:#7d7d7d;}
+
 /* #Footer
 ================================================== */
 #footer-wrap { background: #f1f1f1 url(img/bg_footer.png); padding:32px 0; box-shadow: inset -1px -0 6px rgba(0,0,0,0.2); }
 .footer .widget { margin-bottom:0; }
 .footer .widget h3 span { background: #f1f1f1 url(img/bg_footer.png); } 
 .footer .widget p { margin-bottom:10px; }
+#Testimonials { font-family: 'Rancho', cursive; font-size: 19px; color:#7d7d7d; }
 
 /* #Navigation
 ================================================== */

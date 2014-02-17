@@ -116,8 +116,11 @@
     </asp:ContentPlaceHolder>
     <div id="footer-wrap">
     	<footer class="container footer">
-            <div id="Testimonials" style="font-family: 'Rancho', cursive; font-size: 19px; color:#7d7d7d;"><p></p></div>
+            <div id="Testimonials"><p></p></div>
     	</footer>
-    </div><!-- /footer-wrap -->
+        <div id="copyright">
+		    Copyright &copy; 2014. All Rights Reserved.
+	    </div>
+    </div>
 </body>
 </html>
