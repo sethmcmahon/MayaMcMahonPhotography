@@ -44,9 +44,12 @@
 		        <div class="row set-content">
 		        	<div class="eight columns alpha">
 						<article class="entry">
-							<h4>Love on the Lake</h4>
+                            <div style="width: 100%; overflow: hidden;">
+                                <div style="float: left;"><h4>Love on the Lake</h4></div>
+                                <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredWitmerWedding.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
+                            </div>
 							<p>I had the honor of photographing Amy and Phillip’s early spring wedding in Moneta, Virginia. The couple met at a work outing for Amy’s family business, Sea Tow, which is a tow boat business.  Phil is a Sea Tow Captain and Amy works in marketing.</br></br>
-                               After the ceremony and reception, which were both held at the church, we ventured down to Mariner’s Landing on Smith Mountain Lake to take pictures. With their dog in tow, we took some beautiful pictures by the water and on the docks. As their exit, Amy and Phillip left driving off on one of the Sea-Tow boats. Congratulations to Amy and Phil; here’s to many more boat rides!</br></br></p>
+                               After the ceremony and reception, which were both held at the church, we ventured down to Mariner’s Landing on Smith Mountain Lake to take pictures. With their dog in tow, we took some beautiful pictures by the water and on the docks. As their exit, Amy and Phillip left driving off on one of the Sea-Tow boats. Congratulations to Amy and Phil; here’s to many more boat rides!</p>
 						</article><!-- /post -->
 						<article class="entry">
                             <h6>Location:</h6>
