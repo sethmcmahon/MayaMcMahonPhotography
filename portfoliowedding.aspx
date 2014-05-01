@@ -21,6 +21,120 @@
             <div class="row col-listing">
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/28small.jpg" alt="Amy Bride Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Huddleston" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24104" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/28large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/29small.jpg" alt="Amy Bride Wedding Gown Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Moneta" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24121" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/29large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/30small.jpg" alt="Phillip and Amy Bride and Groom Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Huddleston" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24104" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/30large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/31small.jpg" alt="Amy Bride Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Huddleston" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24104" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/31large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/32small.jpg" alt="Wedding Rings Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Moneta" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24121" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/32large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/33small.jpg" alt="Amy Bride Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Huddleston" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24104" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/33large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
 					    <img itemprop="image" src="dummy/PortfolioWedding/10small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
