@@ -128,6 +128,10 @@ public partial class site : System.Web.UI.MasterPage
         {
             title.Text = "Witmer Wedding Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredKumPortrait.aspx"))
+        {
+            title.Text = "Kum Portrait Photography";
+        }
         else
         {
             title.Text = "Blacksburg Wedding Photographer - Maya McMahon Photography - Professional Photography - Virginia";
