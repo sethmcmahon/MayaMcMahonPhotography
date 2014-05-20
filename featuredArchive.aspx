@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredBrightEvent.aspx"><img src="dummy/featuredArchive/featuredBrightEvent.jpg" alt="Jacob Bright - VCOM Military Promotion Ceremony Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Jacob Bright - VCOM Military Promotion Ceremony</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredKumPortrait.aspx"><img src="dummy/featuredArchive/featuredKumPortrait.jpg" alt="Efua Kum Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Efua Kum</h2>
 					</li>

@@ -79,6 +79,18 @@
 						<a href="dummy/PortfolioEvent/10large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
+				<article class="one-third column set">
+					<img src="dummy/PortfolioEvent/11small.jpg" alt="VCOM Military Promotion Ceremony flag set" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioEvent/11large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioEvent/12small.jpg" alt="VCOM Military Promotion Ceremony" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioEvent/12large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
             </div><!-- /row -->            
         </div><!-- /main -->
     </div><!-- /container -->    
