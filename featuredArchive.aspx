@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredNestrickFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredNestrickFamilyPortrait.jpg" alt="Nestrick Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Nestrick Family</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredBrightEvent.aspx"><img src="dummy/featuredArchive/featuredBrightEvent.jpg" alt="Jacob Bright - VCOM Military Promotion Ceremony Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Jacob Bright - VCOM Military Promotion Ceremony</h2>
 					</li>

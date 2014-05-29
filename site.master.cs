@@ -173,6 +173,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides event photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Jacob Bright - VCOM Military Promotion Ceremony event photography session from Maya McMahon Photography.";
             title.Text = "VCOM Military Promotion Ceremony Event Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredNestrickFamilyPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Nestrick family portrait photography session from Maya McMahon Photography.";
+            title.Text = "Nestrick Family Portrait Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
