@@ -45,7 +45,7 @@
 					<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
-                                <div style="float: left;"><h4>And They Lived Happily Ever After</h4></div>
+                                <div style="float: left;"><h4>Happily Ever After</h4></div>
                                 <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredNestrickFamilyPortrait.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                             </div>
 							<p>When my dearest friends Brian and Hillary were married, it was in a barn in upstate New York. When they asked if I would do their family pictures, Hilary mentioned that she wanted it at a barn location as well. After a lot of searching, we finally selected Selah Springs Farm, in Riner.
