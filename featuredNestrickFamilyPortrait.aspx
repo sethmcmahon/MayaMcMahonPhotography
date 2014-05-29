@@ -45,12 +45,12 @@
 					<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
-                                <div style="float: left;"><h4>Military Promotion Ceremony</h4></div>
+                                <div style="float: left;"><h4>And They Lived Happily Ever After</h4></div>
                                 <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredNestrickFamilyPortrait.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                             </div>
-							<p>I had the extreme honor of photographing Jacob Bright, and his classmates, at the Edward Via College of Osteopathic Medicine, be promoted to Officers in the Armed Forces of the United States. These men and women will serve this country as doctors for the Armed Forces. It was most special for Jacob, as his grandfather, who is a World War II veteran, was there to pin the new rank onto Jacob's uniform. In a symbolic ceremony, where the guest speaker was a Major General, Jacob received his promotion to Captain. He will be heading to his residency at an Army base in Georgia specializing in Family Medicine.
+							<p>When my dearest friends Brian and Hillary were married, it was in a barn in upstate New York. When they asked if I would do their family pictures, Hilary mentioned that she wanted it at a barn location as well. After a lot of searching, we finally selected Selah Springs Farm, in Riner.
                             <br /><br />
-                            Congratulations Jacob, and to all the VCOM graduates, and thank you for your service to our country and to the men and women of the Armed Forces.</p>
+                            We had a great time touring the beautiful property, on top of the mountain, with lots of laughs and quite a few jokes. Their son Aiden, my good buddy, had a wonderful time viewing the animals, sitting on the hay bales and climbing on the pretty cool rock foundation in the middle of the field. We were graced with the presence of quite a few birds, including a bluebird, swallows and indigo bunting. I had so much fun with this session; these guys are some of my dearest friends. I cannot wait to do it again!</p>
 						</article><!-- /post -->
 						<article class="entry">
                             <h6>Location:</h6>
