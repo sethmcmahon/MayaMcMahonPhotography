@@ -42,8 +42,7 @@
 		        </ul><!-- /photo-set -->
 	        
 		        <div class="row set-content">
-					<div class="sixteen fullwidth columns alpha content hyphenate">
-						
+					<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
                                 <div style="float: left;"><h4>Military Promotion Ceremony</h4></div>
@@ -78,7 +77,26 @@
                                 </div>
                             </div>
 						</article><!-- /post -->
-					</div><!-- sixteen -->
+					</div><!-- eight -->
+		        	<div class="eight columns omega">
+		        		
+		        		<div id="related-items">
+		                	<h3 class="widget-title"><span>Related Galleries</span></h3>
+					      	
+					      	<div class="row">
+						      	<article class="four columns alpha set">
+									<a href="featuredSpauldingFamilyPortrait.aspx"><img src="dummy/featuredSpauldingFamilyPortrait/related.jpg" alt="" class="scale-with-grid" /></a>
+									<a href="featuredSpauldingFamilyPortrait.aspx">Spaulding Family</a>
+								</article><!-- /set -->	
+                        		<article class="four columns omega set">
+									<a href="featuredAliagaFamilyPortrait.aspx"><img src="dummy/featuredAliagaFamilyPortrait/related.jpg" alt="" class="scale-with-grid" /></a>
+									<a href="featuredAliagaFamilyPortrait.aspx">Aliaga Family</a>
+								</article><!-- /set -->
+					      	</div><!-- /row -->	
+	
+		                </div><!-- /related-articles -->
+		        		
+		        	</div>
 		        </div><!-- /row -->	
             </div><!-- /row -->			
          
