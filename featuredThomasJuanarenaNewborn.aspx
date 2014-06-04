@@ -54,11 +54,11 @@
 		        	<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
-                                <div style="float: left;"><h4>Love on the Lake</h4></div>
+                                <div style="float: left;"><h4>The Wait is Officially Over</h4></div>
                                 <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredThomasJuanarenaNewborn.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                             </div>
-							<p>I had the honor of photographing Amy and Phillip’s early spring wedding in Moneta, Virginia. The couple met at a work outing for Amy’s family business, Sea Tow, which is a tow boat business.  Phil is a Sea Tow Captain and Amy works in marketing.</br></br>
-                               After the ceremony and reception, which were both held at the church, we ventured down to Mariner’s Landing on Smith Mountain Lake to take pictures. With their dog in tow, we took some beautiful pictures by the water and on the docks. As their exit, Amy and Phillip left driving off on one of the Sea-Tow boats. Congratulations to Amy and Phil; here’s to many more boat rides!</p>
+							<p>It is my great honor to announce the arrival of Thomas Van Juanarena. His arrival was greatly anticipated not only by his amazing parents, Meghan and Brian, but by friends and family (including myself). I was so excited when they asked me to take his newborn pictures. Mr. Juanarena didn't want to sleep during his session, but it worked out.</br></br>
+                               The outpouring of love for this little guy is amazing. Brian is one heck of a dad, putting on the front carrier to try to get him to sleep, and Meghan is so patient and loving as she sings to him to try and calm him down. Thomas is one handsome little guy! Welcome to the world, little man! You are greatly loved already!!</p>
 						</article><!-- /post -->
 						<article class="entry">
                             <div itemscope itemtype="http://schema.org/CreativeWork">
