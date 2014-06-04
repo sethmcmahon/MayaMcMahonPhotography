@@ -178,6 +178,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Nestrick family portrait photography session from Maya McMahon Photography.";
             title.Text = "Nestrick Family Portrait Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredThomasJuanarenaNewborn.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides newborn photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Thomas Juanarena newborn portrait photography session from Maya McMahon Photography.";
+            title.Text = "Thomas Juanarena Newborn Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
