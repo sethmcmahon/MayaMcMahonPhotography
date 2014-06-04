@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredThomasJuanarenaNewborn.aspx"><img src="dummy/featuredArchive/featuredThomasJuanarenaNewborn.jpg" alt="Thomas Juanarena Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Thomas Juanarena</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredNestrickFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredNestrickFamilyPortrait.jpg" alt="Nestrick Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Nestrick Family</h2>
 					</li>
