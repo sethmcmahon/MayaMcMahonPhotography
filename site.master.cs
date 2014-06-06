@@ -183,6 +183,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides newborn photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Thomas Juanarena newborn portrait photography session from Maya McMahon Photography.";
             title.Text = "Thomas Juanarena Newborn Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredRedmanWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Redman wedding photography session from Maya McMahon Photography.";
+            title.Text = "Redman Wedding Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

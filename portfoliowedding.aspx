@@ -21,6 +21,63 @@
             <div class="row col-listing">
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/34small.jpg" alt="Craig and Keri Wedding Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Christiansburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24073" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/34large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/35small.jpg" alt="Wedding Cake Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Christiansburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24073" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/35large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+					    <img itemprop="image" src="dummy/PortfolioWedding/36small.jpg" alt="Flower Girl Wedding Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Christiansburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24073" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/36large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
 					    <img itemprop="image" src="dummy/PortfolioWedding/28small.jpg" alt="Amy Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
