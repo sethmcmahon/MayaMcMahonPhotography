@@ -62,7 +62,8 @@ Feel free to contact me any time. I look forward to speaking with you about your
 				        <aside class="widget_ci_about_widget widget group">
                             <h3><span></span></h3>
                            Maya McMahon Photography<br />
-                           Phone: 607-756-9028<br />
+                           Phone: 540-639-0835<br />
+                           Mobile: 607-756-9028<br />
                            Email: <a href="mailto:maya@mayamcmahonphotography.com">maya@mayamcmahonphotography.com</a><br /><br />
                            
 		                    <h3><span>About me</span></h3>
