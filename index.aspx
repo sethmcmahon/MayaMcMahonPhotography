@@ -47,17 +47,17 @@
 <div id="home-set" class="container">
 	<div class="sixteen columns">
 		<article class="four columns alpha set">
-			<img src="dummy/capture.jpg" alt="Wedding Portfolio" class="scale-with-grid" />
+			<img src="dummy/wedding.jpg" alt="Wedding Portfolio" class="scale-with-grid" />
 			<a href="portfoliowedding.aspx">Wedding</a>
 			<div class="zoom" onclick="location.href='portfoliowedding.aspx';">
-				<a href="dummy/capturebig.jpg" class="view-set"></a>
+				<a href="dummy/wedding.jpg" class="view-set"></a>
 			</div>	
 		</article><!-- /set -->
 		<article class="four columns set">
-			<img src="dummy/lifes.jpg" alt="Portrait Portfolio" class="scale-with-grid" />
+			<img src="dummy/portrait.jpg" alt="Portrait Portfolio" class="scale-with-grid" />
 			<a href="portfolioportrait.aspx">Portrait</a>
 			<div class="zoom" onclick="location.href='portfolioportrait.aspx';">
-				<a href="dummy/lifesbig.jpg" class="view-set"></a>
+				<a href="dummy/portrait.jpg" class="view-set"></a>
 			</div>	
 		</article><!-- /set -->
 		<article class="four columns set">
@@ -68,10 +68,10 @@
 			</div>	
 		</article><!-- /set -->
 		<article class="four columns omega set">
-			<img src="dummy/memories.jpg" alt="Book Your Photography Session" class="scale-with-grid" />
+			<img src="dummy/contactme.jpg" alt="Book Your Photography Session" class="scale-with-grid" />
 			<a href="contact.aspx">Contact Me</a>
 			<div class="zoom" onclick="location.href='contact.aspx';">
-				<a href="dummy/memoriesbig.jpg" class="view-set"></a>
+				<a href="dummy/contactme.jpg" class="view-set"></a>
 			</div>	
 		</article><!-- /set -->
 	</div><!-- /sixteen columns -->
