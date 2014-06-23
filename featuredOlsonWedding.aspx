@@ -54,11 +54,11 @@
 		        	<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
-                                <div style="float: left;"><h4>Love on the Lake</h4></div>
+                                <div style="float: left;"><h4>Love, Dogs and Fireflies</h4></div>
                                 <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredOlsonWedding.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                             </div>
-							<p>I had the honor of photographing Amy and Phillip’s early spring wedding in Moneta, Virginia. The couple met at a work outing for Amy’s family business, Sea Tow, which is a tow boat business.  Phil is a Sea Tow Captain and Amy works in marketing.</br></br>
-                               After the ceremony and reception, which were both held at the church, we ventured down to Mariner’s Landing on Smith Mountain Lake to take pictures. With their dog in tow, we took some beautiful pictures by the water and on the docks. As their exit, Amy and Phillip left driving off on one of the Sea-Tow boats. Congratulations to Amy and Phil; here’s to many more boat rides!</p>
+							<p>Erin and Erik chose to have a very small and intimate wedding ceremony and reception. They chose the beautiful Firefly Hill Vineyards as their venue and it couldn't have been more perfect. Erin chose to do a first look with her father and brother, and the results couldn't have been more wonderful! The day was beautiful and Erin looked spectacular in her wedding gown. Their dog Lane was the official ring bearer and even posed for pictures afterwards.</br></br>
+                               The day was a wonderful gathering of immediate family and close friends. It was a lot of fun to be a part of and an honor to get the chance to preserve it. Congratulations Erik and Erin!!!</p>
 						</article><!-- /post -->
 						<article class="entry">
                             <h6>Location:</h6>

@@ -17,9 +17,10 @@
 	            slide_links: 'blank',
 	            slides: [
                                                     { image: 'dummy/slide1.jpg' },
-                                                    { image: 'dummy/slide5.jpg' },
                                                     { image: 'dummy/slide2.jpg' },
-                                                    { image: 'dummy/slide3.jpg' }
+                                                    { image: 'dummy/slide3.jpg' },
+                                                    { image: 'dummy/slide4.jpg' },
+                                                    { image: 'dummy/slide5.jpg' }
 	            ]
 	        });
 	    });
