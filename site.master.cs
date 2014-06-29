@@ -198,6 +198,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Olson wedding photography session from Maya McMahon Photography.";
             title.Text = "Olson Wedding Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredEricaHavensBridal.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides bridal photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Erica Havens bridal photography session from Maya McMahon Photography.";
+            title.Text = "Erica Havens Bridal Session Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

@@ -56,7 +56,7 @@
                     </form>
 
                     <br />
-                    <img src="dummy/pricingWedding/firehouseWedding.jpg" alt="Firehouse Wedding Photograph" />
+                    <img src="dummy/pricingWedding/fireflyWedding.jpg" alt="Firehouse Wedding Photograph" />
                 </div><!-- bulletList --> 
             </div><!-- sixteen -->
 
