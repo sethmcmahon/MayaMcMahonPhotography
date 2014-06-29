@@ -54,7 +54,7 @@
 		        	<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
-                                <div style="float: left;"><h4>VT Bride, Tar Heel Groom</h4></div>
+                                <div style="float: left;"><h4>Last Thing On Her List</h4></div>
                                 <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredEricaHavensBridal.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                             </div>
 							<p>Now that Erica and Drew are married, I can share her beautiful bridal session. We met first at Roanoke College and then went to the Hotel Roanoke. Erica’s dress is beautiful, with amazing beading throughout the entire dress. Her now mother-in-law hand made the bouquet.</br></br>
