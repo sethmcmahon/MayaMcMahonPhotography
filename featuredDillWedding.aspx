@@ -18,7 +18,6 @@
         </header><!-- /header -->
         <div id="main" class="sixteen columns normal group">
             <h2 class="page-title">Andrew and Erica</h2>            
-
             <div class="row col-listing">
 		        <ul class="photo-set group">
 					<li class="one-third column alpha">
@@ -55,7 +54,6 @@
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
                                 <div style="float: left;"><h4>VT Bride and UNC Groom</h4></div>
-                                <div style="float: right"><div class="fb-share-button" data-href="http://www.mayamcmahonphotography.com/featuredDillWedding.aspx" data-type="icon_link"></div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</div>
                             </div>
 							<p>Erica and Drew were married last Saturday at the beautiful Vinton War Memorial. The ceremony was lovely. On the way back up the aisle Erica stopped and gave her father a kiss goodbye. Once dancing started at the reception, the dance floor was never empty.</br></br>
                                As a gift, the groom’s brother dedicated a song to the new couple. He sang and played the guitar for them. The couple left in a limousine to a shower of bubbles and cheers. Congratulations Erica and Drew! It was an honor to be a part of your wedding day.</p>
@@ -84,7 +82,18 @@
                                     </div>
                                 </div>
                             </div>
-						</article><!-- /post -->
+                            <br /><br />
+						</article><!-- /location -->
+                        <article class="entry">
+                            <h6>Share:</h6>
+                            <script src="js/social-likes.min.js"></script>
+                            <div class="social-likes">
+	                            <div class="facebook" title="Share on Facebook">Facebook</div>
+	                            <div class="twitter" title="Share on Twitter">Twitter</div>
+	                            <div class="plusone" title="Share on Google+">Google+</div>
+	                            <div class="pinterest" title="Share on Pinterest" data-media="">Pinterest</div>
+                            </div>
+                        </article><!-- /social -->
 					</div><!-- eight -->
 		        	<div class="eight columns omega">
 		        		
