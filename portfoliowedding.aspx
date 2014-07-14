@@ -24,7 +24,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/39small.jpg" alt="Wedding Dress Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -43,7 +43,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/38small.jpg" alt="Briadsmaids Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -62,7 +62,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/24small.jpg" alt="Bride Wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -81,7 +81,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/37small.jpg" alt="Vineyard Wedding Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -100,7 +100,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/8small.jpg" alt="Bride Groom and Dog Wedding Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -287,21 +287,21 @@
 				</article><!-- /set -->
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-					    <img itemprop="image" src="dummy/PortfolioWedding/10small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
+					    <img itemprop="image" src="dummy/PortfolioWedding/41small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressLocality" content="Roanoke" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24060" />
+                                <meta itemprop="postalCode" content="24011" />
                             </div>
                         </div>
                     </div>
 					<div class="zoom">
-						<a href="dummy/PortfolioWedding/10large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+						<a href="dummy/PortfolioWedding/41large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
 				<article class="one-third column omega set">
@@ -309,7 +309,7 @@
                     	<img itemprop="image" src="dummy/PortfolioWedding/13small.jpg" alt="Groomsman Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -328,7 +328,7 @@
 					    <img itemprop="image" src="dummy/PortfolioWedding/14small.jpg" alt="Bride and Father Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -347,7 +347,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/15small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -366,7 +366,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/16small.jpg" alt="Groomsman Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -385,7 +385,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/17small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -404,7 +404,7 @@
 					    <img itemprop="image" src="dummy/PortfolioWedding/18small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -423,7 +423,7 @@
                     	<img itemprop="image" src="dummy/PortfolioWedding/19small.jpg" alt="Bride and Bridesmaids Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -442,7 +442,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/11small.jpg" alt="Wedding Ring Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -461,7 +461,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/12small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -480,7 +480,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/1small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -499,7 +499,7 @@
 					    <img itemprop="image" src="dummy/PortfolioWedding/22small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -515,21 +515,21 @@
 				</article><!-- /set -->
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/2small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
+                        <img itemprop="image" src="dummy/PortfolioWedding/40small.jpg" alt="Wedding Dress Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Bluefield" />
+                                <meta itemprop="addressLocality" content="Roanoke" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24605" />
+                                <meta itemprop="postalCode" content="24011" />
                             </div>
                         </div>
                     </div>
 					<div class="zoom">
-						<a href="dummy/PortfolioWedding/2large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+						<a href="dummy/PortfolioWedding/40large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
 				<article class="one-third column omega set">
@@ -537,7 +537,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/20small.jpg" alt="Bride and Child Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -556,7 +556,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/21small.jpg" alt="Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -575,7 +575,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/3small.jpg" alt="Hands with Ring Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -594,7 +594,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/27small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -613,7 +613,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/4small.jpg" alt="Bride with Bridesmaids Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -632,13 +632,13 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/5small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
                                 <meta itemprop="addressLocality" content="Bluemont" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="20135" />
+                                <meta itemprop="postalCode" content="20145" />
                             </div>
                         </div>
                     </div>
@@ -651,7 +651,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/6small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -670,7 +670,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/7small.jpg" alt="Wedding Ring Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -689,7 +689,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/9small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
@@ -708,7 +708,7 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/26small.jpg" alt="Wedding Flowers Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2013" />
+                        <meta itemprop="copyrightYear" content="2014" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
