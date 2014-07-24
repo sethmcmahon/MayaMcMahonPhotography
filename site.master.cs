@@ -218,6 +218,16 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Walden wedding photography session from Maya McMahon Photography.";
             title.Text = "Walden Wedding Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredKatrinaFamilyPortrait2014.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Katrina family portrait photography session from Maya McMahon Photography.";
+            title.Text = "Katrina Family Portrait Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredKempWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Kemp wedding photography session from Maya McMahon Photography.";
+            title.Text = "Kemp Wedding Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
