@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<Settings>
+	<FeatureSettings>
+		<LastName>Dickerson</LastName>
+		<GroomFirstName>Ethan</GroomFirstName>
+		<BrideFirstName>Hailey</BrideFirstName>
+		<Picture1Description>Ethan and Hailey Dickerson wedding picture</Picture1Description>
+		<Picture2Description>Ethan and Hailey Dickerson wedding veil kiss picture</Picture2Description>
+		<Picture3Description>Ethan and Hailey Dickerson wedding wedding dance picture</Picture3Description>
+		<Picture4Description>Ethan and Hailey Dickerson wedding dancing reception picture</Picture4Description>
+		<Picture5Description>Ethan and Hailey Dickerson wedding formal picture</Picture5Description>
+		<Picture6Description>Ethan and Hailey Dickerson wedding heart picture</Picture6Description>
+		<Picture7Description>Hailey Dickerson and grandfather wedding picture</Picture7Description>
+		<Picture8Description>Ethan and Hailey Dickerson bridal party picture</Picture8Description>
+		<Picture9Description>Ethan and Hailey Dickerson wedding sparkler picture</Picture9Description>
+		<FeatureTitle>Country Club Wedding</FeatureTitle>
+		<WriteUpParagraph1>Ethan and Hailey were married on Saturday at the beautiful Blacksburg Country Club. It rained on and off most of the morning, but luckily stopped a half hour before the ceremony. Hailey and Ethan brought sand from the beach where they got engaged to use in their sand ceremony. After the ceremony, we were able to steal away to the golf course to take pictures with the mist covered mountains in the background.</WriteUpParagraph1>
+		<WriteUpParagraph2>The entire evening was so much fun to be a part of from the father of the bride squealing the golf cart tires announcing the bride’s arrival, to playing with sparklers as the evening drew to a close. These two are such a cute couple and it was an honor to be able to preserve their wedding memories. Congratulations Mr. and Mrs. Dickerson.</WriteUpParagraph2>
+		<Location1Name>Blacksburg Country Club</Location1Name>
+		<Location1Url>https://www.blacksburgcc.com/</Location1Url>
+		<Location1Address>1064 Clubhouse Road</Location1Address>
+		<Location1City>Blacksburg</Location1City>
+		<Location1State>VA</Location1State>
+		<Location1Zip>24060</Location1Zip>
+		<Location2Name></Location2Name>
+		<Location2Url></Location2Url>
+		<Location2Address></Location2Address>
+		<Location2City></Location2City>
+		<Location2State></Location2State>
+		<Location2Zip></Location2Zip>
+		<Location3Name></Location3Name>
+		<Location3Url></Location3Url>
+		<Location3Address></Location3Address>
+		<Location3City></Location3City>
+		<Location3State></Location3State>
+		<Location3Zip></Location3Zip>
+		<Location4Name></Location4Name>
+		<Location4Url></Location4Url>
+		<Location4Address></Location4Address>
+		<Location4City></Location4City>
+		<Location4State></Location4State>
+		<Location4Zip></Location4Zip>
+	</FeatureSettings>
+	<DoNotChangeSettings>
+		<copyFromFeature>featuredWrightWedding.aspx</copyFromFeature>
+	</DoNotChangeSettings>
+</Settings>

@@ -21,6 +21,63 @@
             <div class="row col-listing">
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/44small.jpg" alt="Wedding couple fog golf course Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/44large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/45small.jpg" alt="Wedding couple dancing Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/45large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/46small.jpg" alt="Wedding reception dancing Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2014" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+					<div class="zoom">
+						<a href="dummy/PortfolioWedding/46large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/42small.jpg" alt="Wedding couple kissing Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
