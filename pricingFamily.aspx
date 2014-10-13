@@ -23,7 +23,7 @@
                 <div id="bulletList">                
                     <article class="entry">
 	                    <p><img src="dummy/pricingFamily/family.jpg" alt="Maternity Photograph" class="alignright">
-                            Family pictures, maternity packages and newborn packages start at $135 and include the following services: 
+                            Family pictures, maternity packages and newborn packages start at $235 and include the following services: 
                             <ul>
                                 <li>Consultation to discuss session</li>
                                 <li>Two hours of service</li>

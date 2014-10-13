@@ -23,7 +23,7 @@
                 <div id="bulletList">                
                     <article class="entry">
 	                    <p><img src="dummy/pricingWedding/flower.jpg" alt="" class="alignright">
-                            Wedding packages start at $1000 and include the following services: 
+                            Wedding packages start at $1400 and include the following services: 
                             <ul>
                                 <li>Consultation with future bride and groom</li>
                                 <li>Eight hours of wedding day coverage</li>
