@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredLutchmedialFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredLutchmedialFamilyPortrait.jpg" alt="Lutchmedial Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Lutchmedial Family</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredRycroftFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredRycroftFamilyPortrait.jpg" alt="Rycroft Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Rycroft Family</h2>
 					</li>
