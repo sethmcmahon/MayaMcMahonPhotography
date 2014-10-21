@@ -20,6 +20,42 @@
             <h2 class="page-title">Portrait</h2>            
             <div class="row col-listing">
 				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/28small.jpg" alt="Newborn Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/28large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/29small.jpg" alt="Newborn with family Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/29large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/30small.jpg" alt="Newborn with pumpkin Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/30large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/25small.jpg" alt="Engagement Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/25large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/26small.jpg" alt="Engagement with dogs Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/26large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/27small.jpg" alt="Engagement with pumpkins Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/27large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
 					<img src="dummy/PortfolioPortrait/22small.jpg" alt="Infant Portfolio Photograph" class="scale-with-grid" />
 					<div class="zoom">
 						<a href="dummy/PortfolioPortrait/22large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>

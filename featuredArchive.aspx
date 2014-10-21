@@ -22,6 +22,18 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredAlyssaThomassonNewborn.aspx"><img src="dummy/featuredArchive/featuredAlyssaThomassonNewborn.jpg" alt="Alyssa Thomasson Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Alyssa Thomasson</h2>
+					</li>
+                    <li class="sixteen columns">
+						<a href="featuredMattKaylaEngagement.aspx"><img src="dummy/featuredArchive/featuredMattKaylaEngagement.jpg" alt="Matt and Kayla Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Matt and Kayla</h2>
+					</li>
+                    <li class="sixteen columns">
+						<a href="featuredTimJenniferEngagement.aspx"><img src="dummy/featuredArchive/featuredTimJenniferEngagement.jpg" alt="Tim and Jennifer Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Tim and Jennifer</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredLutchmedialFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredLutchmedialFamilyPortrait.jpg" alt="Lutchmedial Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Lutchmedial Family</h2>
 					</li>
