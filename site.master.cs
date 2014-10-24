@@ -268,6 +268,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides newborn photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Alyssa Thomasson newborn portrait photography session from Maya McMahon Photography.";
             title.Text = "Alyssa Thomasson Newborn Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredTonyAnnEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Tony and Ann engagement photography session from Maya McMahon Photography.";
+            title.Text = "Tony and Ann Engagement Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
