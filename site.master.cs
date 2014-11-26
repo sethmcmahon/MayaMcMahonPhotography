@@ -288,6 +288,21 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Creque family portrait photography session from Maya McMahon Photography.";
             title.Text = "Creque Family Portrait Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredTadCandonEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Tad and Candon engagement photography session from Maya McMahon Photography.";
+            title.Text = "Tad and Candon Engagement Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredMorganKristenEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Morgan and Kristen engagement photography session from Maya McMahon Photography.";
+            title.Text = "Morgan and Kristen Engagement Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredHolroydFamilyPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Holroyd family portrait photography session from Maya McMahon Photography.";
+            title.Text = "Holroyd Family Portrait Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

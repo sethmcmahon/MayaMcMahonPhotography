@@ -22,6 +22,18 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredHolroydFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredHolroydFamilyPortrait.jpg" alt="Holroyd Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Holroyd Family</h2>
+					</li>
+                    <li class="sixteen columns">
+						<a href="featuredMorganKristenEngagement.aspx"><img src="dummy/featuredArchive/featuredMorganKristenEngagement.jpg" alt="Morgan and Kristen Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Morgan and Kristen</h2>
+					</li>
+                    <li class="sixteen columns">
+						<a href="featuredTadCandonEngagement.aspx"><img src="dummy/featuredArchive/featuredTadCandonEngagement.jpg" alt="Tad and Candon Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Tad and Candon</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredCrequeFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredCrequeFamilyPortrait.jpg" alt="Creque Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Creque Family</h2>
 					</li>
