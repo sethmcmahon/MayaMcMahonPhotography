@@ -303,6 +303,16 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Holroyd family portrait photography session from Maya McMahon Photography.";
             title.Text = "Holroyd Family Portrait Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredDickersonFamilyPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Dickerson family portrait photography session from Maya McMahon Photography.";
+            title.Text = "Dickerson Family Portrait Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredJuanarenaFamilyPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Juanarena family portrait photography session from Maya McMahon Photography.";
+            title.Text = "Juanarena Family Portrait Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

@@ -22,6 +22,14 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredJuanarenaFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredJuanarenaFamilyPortrait.jpg" alt="Juanarena Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Juanarena Family</h2>
+					</li>
+                    <li class="sixteen columns">
+						<a href="featuredDickersonFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredDickersonFamilyPortrait.jpg" alt="Dickerson Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Dickerson Family</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredHolroydFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredHolroydFamilyPortrait.jpg" alt="Holroyd Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Holroyd Family</h2>
 					</li>
