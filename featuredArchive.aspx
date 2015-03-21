@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredRamsayMaternity.aspx"><img src="dummy/featuredArchive/featuredRamsayMaternity.jpg" alt="Ramsay Maternity Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Jordan and Christina</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredJuanarenaFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredJuanarenaFamilyPortrait.jpg" alt="Juanarena Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Juanarena Family</h2>
 					</li>

@@ -313,6 +313,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Juanarena family portrait photography session from Maya McMahon Photography.";
             title.Text = "Juanarena Family Portrait Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredRamsayMaternity.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides maternity photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Jordan and Christina maternity photography session from Maya McMahon Photography.";
+            title.Text = "Jordan and Christina Maternity Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
