@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+						<a href="featuredNRVBrideModels2015.aspx"><img src="dummy/featuredArchive/featuredNRVBrideModels2015.jpg" alt="NRV Spring Showcase Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">2015 NRV Spring Bridal Showcase</h2>
+					</li>
+                    <li class="sixteen columns">
 						<a href="featuredRamsayMaternity.aspx"><img src="dummy/featuredArchive/featuredRamsayMaternity.jpg" alt="Ramsay Maternity Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Jordan and Christina</h2>
 					</li>
