@@ -323,6 +323,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Spring 2015 NRV Bridal Showcase wedding photography session from Maya McMahon Photography.";
             title.Text = "2015 Spring NRV Bridal Showcase Wedding Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredHawleyWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hawley wedding photography session from Maya McMahon Photography.";
+            title.Text = "Hawley Wedding Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
