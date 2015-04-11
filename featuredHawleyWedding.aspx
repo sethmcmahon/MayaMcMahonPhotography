@@ -156,7 +156,7 @@
 						<article class="entry">
                             <h6>Vendors:</h6>
                             <ul>
-                                <li>Cake: Kip Lakers Bakery</li>
+                                <li>Cake: <a itemprop="url" href="http://www.kupkakery.com" target="_blank">Kupkakery Bakery</a></li>
                                 <li>Catering: <a itemprop="url" href="http://www.sheratonroanoke.com" target="_blank">Sheraton Roanoke</a></li>
                                 <li>DJ: <a itemprop="url" href="http://www.blueridgeentertainment.net" target="_blank">Pepe LaPradd with Blueridge Entertainment</a></li>
                                 <li>Wedding Director: <a itemprop="url" href="http://www.sheratonroanoke.com" target="_blank">Autumn Bledsoe</a></li>
