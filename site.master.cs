@@ -333,6 +333,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the David and Tasha engagement photography session from Maya McMahon Photography.";
             title.Text = "David and Tasha Engagement Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredHartsockNewborn.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides newborn photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hartsock newborn portrait photography session from Maya McMahon Photography.";
+            title.Text = "Hartsock Newborn Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

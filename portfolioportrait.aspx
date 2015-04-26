@@ -20,6 +20,24 @@
             <h2 class="page-title">Portrait</h2>            
             <div class="row col-listing">
 				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/40small.jpg" alt="Hartsock newborn smiling Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/40large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/41small.jpg" alt="Hartsock newborn on fathers lap Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/41large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/42small.jpg" alt="Hartsock baby and mother newborn Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/42large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
 					<img src="dummy/PortfolioPortrait/37small.jpg" alt="Maternity mother and father gaze Portfolio Photograph" class="scale-with-grid" />
 					<div class="zoom">
 						<a href="dummy/PortfolioPortrait/37large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
