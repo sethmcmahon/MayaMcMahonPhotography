@@ -17,7 +17,7 @@
             </div><!-- /row -->
         </header><!-- /header -->
         <div id="main" class="sixteen columns normal group">
-            <h2 class="page-title">David and Tasha</h2>            
+            <h2 class="page-title">Mark and Allie</h2>            
             <div class="row col-listing">
 		        <ul class="photo-set group">
 					<li class="one-third column alpha">
