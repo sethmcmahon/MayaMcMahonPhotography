@@ -368,10 +368,10 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides newborn photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the 2015 Juanarena newborn portrait photography session from Maya McMahon Photography.";
             title.Text = "Juanarena Newborn Photography 2015";
         }
-        else if (Request.CurrentExecutionFilePath.Contains("featuredHullWedding.aspx"))
+        else if (Request.CurrentExecutionFilePath.Contains("featuredKimBandyBridal.aspx"))
         {
-            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hull wedding photography session from Maya McMahon Photography.";
-            title.Text = "Hull Wedding Photography";
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Kim Bandy Bridal photography session from Maya McMahon Photography.";
+            title.Text = "Kim Bandy Bridal Photography";
         }
 
         myHead.Controls.Add(title);
