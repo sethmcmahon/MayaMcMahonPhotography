@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+                        <a href="featuredPendeltonWedding.aspx"><img src="dummy/featuredArchive/featuredPendeltonWedding.jpg" alt="Pendelton Wedding Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Tim and Jennifer</h2>
+                    </li>
+                    <li class="sixteen columns">
                         <a href="featuredKimBandyBridal.aspx"><img src="dummy/featuredArchive/featuredKimBandyBridal.jpg" alt="Kim Bandy Bridal Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Kim Bandy</h2>
                     </li>
