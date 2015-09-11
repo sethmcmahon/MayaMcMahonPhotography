@@ -73,7 +73,7 @@
                             <div style="width: 100%; overflow: hidden;">
                                 <div style="float: left;"><h4>Then They Were Married</h4></div>
                             </div>
-							<p>Kim is one of the most positive and kind women I have had the pleasure of meeting and her love for Craig is so beautiful to watch. They dated in the 5th grade and then drifted apart only to find each other again. Amazingly enough, Kim kept the blue sapphire necklace that Craig gave her when they were younger and she wore it on the wedding day. The ceremony was beautiful and had me in tears. As the sun set, we stole outside to capture the beautiful end to an amazing day. Congratulations Mr. and Mrs. Dowdy! Here’s to many years of love and happiness.</p>
+							<p>Kim is one of the most positive and kind women I have had the pleasure of meeting and her love for Craig is so beautiful to watch. They dated in the 5th grade and then drifted apart only to find each other again. Amazingly enough, Kim kept the blue sapphire necklace that Craig gave her when they were younger and she wore it on the wedding day. The ceremony was beautiful and had me in tears. As the sun set, we stole outside to capture the beautiful end to an amazing day. Congratulations Mr. and Mrs. Dowdy! Here&#39;s to many years of love and happiness.</p>
 						</article><!-- /post -->
 						<article class="entry">
                             <h6>Location:</h6>
