@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+                        <a href="featuredReedFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredReedFamilyPortrait.jpg" alt="Reed Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Reed Family</h2>
+                    </li>
+                    <li class="sixteen columns">
                         <a href="featuredDowdyWedding.aspx"><img src="dummy/featuredArchive/featuredDowdyWedding.jpg" alt="Dowdy Wedding Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Craig and Kim</h2>
                     </li>
