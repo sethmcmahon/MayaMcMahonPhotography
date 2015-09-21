@@ -21,8 +21,7 @@
                                                     { image: 'dummy/slide3.jpg' },
                                                     { image: 'dummy/slide4.jpg' },
                                                     { image: 'dummy/slide5.jpg' },
-                                                    { image: 'dummy/slide6.jpg' },
-                                                    { image: 'dummy/slide7.jpg' }
+                                                    { image: 'dummy/slide6.jpg' }
 	            ]
 	        });
 	    });
