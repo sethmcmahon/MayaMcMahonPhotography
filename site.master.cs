@@ -388,6 +388,16 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Reed family portrait photography session from Maya McMahon Photography.";
             title.Text = "Reed Family Portrait Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredKristinaHenryBridal.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Kristina Henry Bridal photography session from Maya McMahon Photography.";
+            title.Text = "Kristina Henry Bridal Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredMarybethMarshallBridal.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Marybeth Marshall Bridal photography session from Maya McMahon Photography.";
+            title.Text = "Marybeth Marshall Bridal Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

@@ -22,6 +22,14 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+                        <a href="featuredMarybethMarshallBridal.aspx"><img src="dummy/featuredArchive/featuredMarybethMarshallBridal.jpg" alt="Marybeth Marshall Bridal Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Marybeth Marshall</h2>
+                    </li>
+                    <li class="sixteen columns">
+                        <a href="featuredKristinaHenryBridal.aspx"><img src="dummy/featuredArchive/featuredKristinaHenryBridal.jpg" alt="Kristina Henry Bridal Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Kristina Henry</h2>
+                    </li>
+                    <li class="sixteen columns">
                         <a href="featuredReedFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredReedFamilyPortrait.jpg" alt="Reed Family Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Reed Family</h2>
                     </li>
