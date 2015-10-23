@@ -403,6 +403,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Rush wedding photography session from Maya McMahon Photography.";
             title.Text = "Rush Wedding Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredHolroydFamilyPortrait2015.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Holroyd family portrait photography session from Maya McMahon Photography in 2015.";
+            title.Text = "Holroyd Family Portrait 2015 Photography";
+        }
 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
