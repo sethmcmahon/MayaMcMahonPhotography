@@ -345,7 +345,7 @@ public partial class site : System.Web.UI.MasterPage
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredMarkAllieEngagement.aspx"))
         {
-            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Boivin Mark and Allie engagement photography session from Maya McMahon Photography.";
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Mark and Allie engagement photography session from Maya McMahon Photography.";
             title.Text = "Mark and Allie Engagement Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("featuredRamseyNewborn.aspx"))
@@ -412,6 +412,11 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Kyle and Kendall portrait photography session from Maya McMahon Photography.";
             title.Text = "Kyle and Kendall Portrait Photography";
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredAustinShianneEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Austin and Shianne engagement photography session from Maya McMahon Photography.";
+            title.Text = "Austin and Shianne Engagement Photography";
         }
 
         myHead.Controls.Add(title);
