@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -427,6 +427,11 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Menconi family portrait photography session from Maya McMahon Photography in 2015.";
             title.Text = "Menconi Family Portrait Photography";
+        }     
+        else if (Request.CurrentExecutionFilePath.Contains("featuredMikeLindseyMilitaryBallPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Mike and Lindsey portrait photography session from Maya McMahon Photography in 2015.";
+            title.Text = "Mike and Lindsey Military Ball Portrait Photography";
         }     
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);

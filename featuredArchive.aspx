@@ -22,6 +22,10 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                     <li class="sixteen columns">
+                        <a href="featuredMikeLindseyMilitaryBallPortrait.aspx"><img src="dummy/featuredArchive/featuredMikeLindseyMilitaryBallPortrait.jpg" alt="Mike and Lindsey Military Ball Portrait Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Mike and Lindsey</h2>
+                    </li>
+                    <li class="sixteen columns">
                         <a href="featuredMenconiFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredMenconiFamilyPortrait.jpg" alt="Menconi Family Portrait Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Menconi Family</h2>
                     </li>
