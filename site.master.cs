@@ -433,6 +433,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Mike and Lindsey portrait photography session from Maya McMahon Photography in 2015.";
             title.Text = "Mike and Lindsey Military Ball Portrait Photography";
         }     
+        else if (Request.CurrentExecutionFilePath.Contains("featuredBrentBrandiEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Brent and Brandi Engagement photography session from Maya McMahon Photography in 2015.";
+            title.Text = "Brent and Brandi Engagement Photography";
+        }     
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
