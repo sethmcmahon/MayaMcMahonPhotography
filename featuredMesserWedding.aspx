@@ -188,6 +188,8 @@
                                 <li>DJ: <a itemprop="url" href="http://www.vagizmodj.com/files/index.php?id=1" target="_blank">Gizmo DJ Services</a></li>
 								<li>Florist: <a itemprop="url" href="http://www.blacksburgvaflorist.net/" target="_blank">D'Rose Flowers and Gifts</a></li>
 								<li>Hair and Makeup: <a itemprop="url" href="http://meredithssalon.com/" target="_blank">Meredith&#39;s Salon </a></li>
+								<li>Videography: Weddings in Roanoke</li>
+
                             </ul>
 						</article><!-- /vendors -->
 					</div><!-- eight -->
