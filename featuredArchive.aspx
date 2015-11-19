@@ -21,6 +21,10 @@
 
             <div class="row col-listing">
 		        <ul class="photo-set group">
+                    <li class="sixteen columns">
+                        <a href="featuredAlanKrupaEngagement.aspx"><img src="dummy/featuredAlanKrupaEngagement.jpg" alt="Alan Krupa Engagement Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Alan and Krupa</h2>
+                    </li>
                      <li class="sixteen columns">
                         <a href="featuredMesserWedding.aspx"><img src="dummy/featuredArchive/featuredMesserWedding.jpg" alt="Messer Wedding Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Donald and Hayley</h2>
