@@ -1577,6 +1577,291 @@
 						<a href="dummy/PortfolioWedding/49large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/135small.jpg" alt="Henry Bridal gazebo Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/135large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/136small.jpg" alt="Henry Bridal ring red flower Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/136large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/137small.jpg" alt="Henry Bridal sitting Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/137large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/138small.jpg" alt="Henry Bridal shoes Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/138large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/139small.jpg" alt="Henry Bridal full gazebo Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/139large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/156small.jpg" alt="Henry Bridal hand veil Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/156large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/157small.jpg" alt="Henry Bridal looking up Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/157large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/140small.jpg" alt="Dobson ceremony Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/140large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/141small.jpg" alt="Dobson bridal party Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/141large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/142small.jpg" alt="Dobson in front of house Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/142large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/143small.jpg" alt="Dobson bride groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/143large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/144small.jpg" alt="Dobson cake Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/144large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/145small.jpg" alt="Dobson father daughter Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/145large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/146small.jpg" alt="Dobson dancing Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/146large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/147small.jpg" alt="Dobson rings Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/147large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/44small.jpg" alt="Wedding couple fog golf course Portfolio Photograph" class="scale-with-grid" />
@@ -1860,6 +2145,158 @@
                     </div>
                     <div class="zoom">
                         <a href="dummy/PortfolioWedding/55large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/148small.jpg" alt="Harley bride and groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/148large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/149small.jpg" alt="Hawley getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/149large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/150small.jpg" alt="Hawley rings Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/150large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/151small.jpg" alt="Hawley groomsmen Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/151large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/152small.jpg" alt="Hawley gifts Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/152large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/153small.jpg" alt="Hawley cake topper Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/153large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/154small.jpg" alt="Hawley head table Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/154large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/155small.jpg" alt="Hawley flower girl Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2015" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24019" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/155large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                     </div>  
                 </article><!-- /set -->
 				<article class="one-third column omega set">
