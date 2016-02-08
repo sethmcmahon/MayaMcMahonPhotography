@@ -17,7 +17,7 @@
             </div><!-- /row -->
         </header><!-- /header -->
         <div id="main" class="sixteen columns normal group">
-            <h2 class="page-title">Wedding Pricing</h2>
+            <h2 class="page-title">Wedding</h2>
 
             <div class="sixteen fullwidth columns alpha content hyphenate">
                 <div id="bulletList">                
