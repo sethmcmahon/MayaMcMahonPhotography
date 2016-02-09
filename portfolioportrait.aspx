@@ -19,6 +19,60 @@
         <div id="main" class="sixteen columns normal group">
             <h2 class="page-title">Portrait</h2>            
             <div class="row col-listing">
+            	<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/43small.jpg" alt="Menconi family Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/43large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/44small.jpg" alt="Menconi Maci Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/44large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/45small.jpg" alt="Menconi Joy Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/45large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/46small.jpg" alt="Menconi 5 years old Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/46large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+				<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/47small.jpg" alt="Menconi mom daughter Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/47large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+            	<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/48small.jpg" alt="Menconi dad daughter Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/48large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+            	<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/49small.jpg" alt="Menconi girls Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/49large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+            	<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/50small.jpg" alt="Menconi dad baby Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/50large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
+            	<article class="one-third column omega set">
+					<img src="dummy/PortfolioPortrait/51small.jpg" alt="Menconi baby Portfolio Photograph" class="scale-with-grid" />
+					<div class="zoom">
+						<a href="dummy/PortfolioPortrait/51large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+					</div>	
+				</article><!-- /set -->
 				<article class="one-third column omega set">
 					<img src="dummy/PortfolioPortrait/40small.jpg" alt="Hartsock newborn smiling Portfolio Photograph" class="scale-with-grid" />
 					<div class="zoom">
