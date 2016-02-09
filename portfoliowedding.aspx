@@ -2852,7 +2852,7 @@
                 </article><!-- /set -->
                 <article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/171small.jpg" alt="Huff flowers wedding Portfolio Photograph" class="scale-with-grid" />
+                        <img itemprop="image" src="dummy/PortfolioWedding/175small.jpg" alt="Huff flowers wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
                         <meta itemprop="copyrightYear" content="2014" />
@@ -2866,7 +2866,7 @@
                         </div>
                     </div>
                     <div class="zoom">
-                        <a href="dummy/PortfolioWedding/171large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        <a href="dummy/PortfolioWedding/175large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                     </div>  
                 </article><!-- /set -->
                 <article class="one-third column omega set">
