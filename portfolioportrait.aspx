@@ -362,12 +362,6 @@
 					</div>	
 				</article><!-- /set -->
 				<article class="one-third column omega set">
-					<img src="dummy/PortfolioPortrait/7small.jpg" alt="Family Portfolio Photograph" class="scale-with-grid" />
-					<div class="zoom">
-						<a href="dummy/PortfolioPortrait/7large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>	
-				</article><!-- /set -->
-				<article class="one-third column omega set">
 					<img src="dummy/PortfolioPortrait/8small.jpg" alt="Family Children Portfolio Photograph" class="scale-with-grid" />
 					<div class="zoom">
 						<a href="dummy/PortfolioPortrait/8large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
@@ -395,18 +389,6 @@
 					<img src="dummy/PortfolioPortrait/12small.jpg" alt="Personal Portrait Portfolio Photograph" class="scale-with-grid" />
 					<div class="zoom">
 						<a href="dummy/PortfolioPortrait/12large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>	
-				</article><!-- /set -->
-				<article class="one-third column omega set">
-					<img src="dummy/PortfolioPortrait/3small.jpg" alt="Engagement Barn Portfolio Photograph" class="scale-with-grid" />
-					<div class="zoom">
-						<a href="dummy/PortfolioPortrait/3large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>	
-				</article><!-- /set -->
-				<article class="one-third column omega set">
-					<img src="dummy/PortfolioPortrait/6small.jpg" alt="Maternity Baseball Portfolio Photograph" class="scale-with-grid" />
-					<div class="zoom">
-						<a href="dummy/PortfolioPortrait/6large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
 				<article class="one-third column omega set">
