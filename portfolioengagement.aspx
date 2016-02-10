@@ -418,6 +418,234 @@
                             <a href="dummy/PortfolioEngagement/21large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                         </div>  
                     </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/22small.jpg" alt="DavidTasha grass Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/22large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/23small.jpg" alt="DavidTasha hands Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/23large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/24small.jpg" alt="DavidTasha over back Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/24large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/25small.jpg" alt="DavidTasha looking at each other Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/25large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/26small.jpg" alt="DavidTasha ring Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/26large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/27small.jpg" alt="DavidTasha lying down Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/27large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/28small.jpg" alt="KyleKendall barn Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/28large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                     <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/29small.jpg" alt="KyleKendall dog tags Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/29large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/30small.jpg" alt="KyleKendall sitting barn Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/30large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/31small.jpg" alt="KyleKendall trees Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/31large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/32small.jpg" alt="KyleKendall dog Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/32large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/33small.jpg" alt="KyleKendall back Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2015" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/33large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
             </div><!-- /row -->            
         </div><!-- /main -->
     </div><!-- /container -->
