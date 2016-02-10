@@ -23,15 +23,15 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This wedding portfolio page highlights some of her best Wedding photographs.";
             title.Text = "Wedding Photography";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("portfolioengagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This engagement portfolio page highlights some of her best engagement photographs.";
+            title.Text = "Engagement Photography";
+        }
         else if (Request.CurrentExecutionFilePath.Contains("portfolioportrait.aspx"))
         {
             metaDescription.Content = "Maya McMahon Photography provides portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This portrait portfolio page highlights some of her best portrait photographs.";
             title.Text = "Portrait Photography";
-        }
-        else if (Request.CurrentExecutionFilePath.Contains("portfolioevent.aspx"))
-        {
-            metaDescription.Content = "Maya McMahon Photography provides event photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This event portfolio page highlights some of her best event photographs.";
-            title.Text = "Event Photography";
         }
         else if (Request.CurrentExecutionFilePath.Contains("buildYourWeddingPackage.aspx"))
         {

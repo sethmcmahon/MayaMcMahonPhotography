@@ -12,12 +12,12 @@
     <loc>http://www.mayamcmahonphotography.com/portfoliowedding.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
-  <url>
-    <loc>http://www.mayamcmahonphotography.com/portfolioportrait.aspx</loc>
+    <url>
+    <loc>http://www.mayamcmahonphotography.com/portfolioengagement.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>http://www.mayamcmahonphotography.com/portfolioevent.aspx</loc>
+    <loc>http://www.mayamcmahonphotography.com/portfolioportrait.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
@@ -254,16 +254,13 @@
   </url>
   <url>
     <loc>http://www.mayamcmahonphotography.com/featuredAlanKrupaEngagement.aspx</loc>
-
+  </url>
+  <url>
     <loc>http://www.mayamcmahonphotography.com/pricingEngagement.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>
     <loc>http://www.mayamcmahonphotography.com/pricingWedding.aspx</loc>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>http://www.mayamcmahonphotography.com/pricingEvent.aspx</loc>
     <changefreq>weekly</changefreq>
   </url>
   <url>

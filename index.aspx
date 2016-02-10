@@ -63,10 +63,10 @@
 			</div>	
 		</article><!-- /set -->
 		<article class="four columns set">
-			<img src="dummy/event.jpg" alt="Event Portfolio" class="scale-with-grid" />
-			<a href="portfolioevent.aspx">Event</a>
-			<div class="zoom" onclick="location.href='portfolioevent.aspx';">
-				<a href="dummy/lastingbig.jpg" class="view-set"></a>
+			<img src="dummy/engagement.jpg" alt="Engagement Portfolio" class="scale-with-grid" />
+			<a href="portfolioengagement.aspx">Engagement</a>
+			<div class="zoom" onclick="location.href='portfolioengagement.aspx';">
+				<a href="dummy/engagement.jpg" class="view-set"></a>
 			</div>	
 		</article><!-- /set -->
 		<article class="four columns omega set">
