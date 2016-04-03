@@ -63,6 +63,11 @@ public partial class site : System.Web.UI.MasterPage
             metaDescription.Content = "Maya McMahon Photography provides event photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page outlines event pricing for services provided from Maya McMahon Photography.";
             title.Text = "Event Photography Pricing";
         }
+        else if (Request.CurrentExecutionFilePath.Contains("faq.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page outlines frequently asked questions of Maya McMahon Photography.";
+            title.Text = "Photography Services FAQ";
+        }
         else if (Request.CurrentExecutionFilePath.Contains("contact.aspx"))
         {
             metaDescription.Content = "Maya McMahon Photography provides photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. Use this page to contact Maya McMahon Photography and book your photography session.";
