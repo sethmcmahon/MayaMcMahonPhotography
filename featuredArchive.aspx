@@ -26,6 +26,10 @@
                         <h2 class="archive-title">Alan and Krupa</h2>
                     </li>
                     <li class="sixteen columns">
+                        <a href="featuredWoodsSeniorPortrait.aspx"><img src="dummy/featuredArchive/featuredWoodsSeniorPortrait.jpg" alt="Katie Senior Portrait Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Katie Senior Portrait</h2>
+                    </li>
+                    <li class="sixteen columns">
                         <a href="featuredAlanKrupaEngagement.aspx"><img src="dummy/featuredArchive/featuredAlanKrupaEngagement.jpg" alt="Alan Krupa Engagement Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Alan and Krupa</h2>
                     </li>

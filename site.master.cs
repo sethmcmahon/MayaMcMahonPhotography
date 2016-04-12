@@ -457,7 +457,12 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Alan and Krupa Engagement photography session from Maya McMahon Photography in 2015.";
             title.Text = "Alan and Krupa Engagement Photography";
-        }     
+        }
+        else if (Request.CurrentExecutionFilePath.Contains("featuredWoodsSeniorPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides college senior photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Katie Woods Senior Portrait photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Katie Senior Portrait Photography";   
+        }      
         else if (Request.CurrentExecutionFilePath.Contains("featuredJohnsonWedding.aspx"))
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Johnson Wedding photography session from Maya McMahon Photography in 2016.";
