@@ -475,9 +475,14 @@ public partial class site : System.Web.UI.MasterPage
         }         
         else if (Request.CurrentExecutionFilePath.Contains("featuredHiltSeniorPortrait.aspx"))
         {
-            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Molly Hilt Senior Portrait photography session from Maya McMahon Photography in 2016.";
+            metaDescription.Content = "Maya McMahon Photography provides college enior photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Molly Hilt Senior Portrait photography session from Maya McMahon Photography in 2016.";
             title.Text = "Molly Senior Portrait Photography";
-        }         
+        }  
+        else if (Request.CurrentExecutionFilePath.Contains("featuredFinneyWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Finney Wedding photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Finney Wedding Photography";
+        }                
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
