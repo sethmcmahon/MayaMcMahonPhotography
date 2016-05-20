@@ -482,7 +482,12 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Finney Wedding photography session from Maya McMahon Photography in 2016.";
             title.Text = "Finney Wedding Photography";
-        }                
+        }    
+        else if (Request.CurrentExecutionFilePath.Contains("featuredTylerMelissaEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Tyler and Melissa engagement photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Tyler and Melissa Engagement Photography";
+        }               
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
