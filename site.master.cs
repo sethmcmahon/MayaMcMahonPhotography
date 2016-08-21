@@ -492,7 +492,12 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Kruzliak Wedding photography session from Maya McMahon Photography in 2016.";
             title.Text = "Kruzliak Wedding Photography";
-        }               
+        } 
+        else if (Request.CurrentExecutionFilePath.Contains("featuredHinsonWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hinson Wedding photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Hinson Wedding Photography";
+        }                           
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
