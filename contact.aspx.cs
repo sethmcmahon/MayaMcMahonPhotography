@@ -17,7 +17,7 @@ public partial class contact : System.Web.UI.Page
                 {
                     client.EnableSsl = true;
                     client.UseDefaultCredentials = false;
-                    client.Credentials = new NetworkCredential("seth.mcmahon@gmail.com", "P@radigm");
+                    client.Credentials = new NetworkCredential("seth.mcmahon@gmail.com", "Tr33$9791");
                     var mail = new MailMessage();
                     mail.From = new MailAddress("seth.mcmahon@gmail.com");
                     mail.To.Add("maya.mcmahon@gmail.com");
