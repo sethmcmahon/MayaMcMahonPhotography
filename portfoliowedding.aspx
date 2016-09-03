@@ -3004,25 +3004,6 @@
 				</article><!-- /set -->
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/16small.jpg" alt="Groomsman Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2014" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Blacksburg" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24060" />
-                            </div>
-                        </div>
-                    </div>
-					<div class="zoom">
-						<a href="dummy/PortfolioWedding/16large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>	
-				</article><!-- /set -->
-				<article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
 					    <img itemprop="image" src="dummy/PortfolioWedding/18small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
@@ -3099,25 +3080,6 @@
                 </article><!-- /set -->
                 <article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/1small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2014" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Blacksburg" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24060" />
-                            </div>
-                        </div>
-                    </div>
-					<div class="zoom">
-						<a href="dummy/PortfolioWedding/1large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>
-				</article><!-- /set -->
-				<article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/40small.jpg" alt="Wedding Dress Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
@@ -3192,25 +3154,6 @@
                         <a href="dummy/PortfolioWedding/167large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                     </div>  
                 </article><!-- /set -->
-				<article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/27small.jpg" alt="Bride and Groom Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2014" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Bluefield" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24605" />
-                            </div>
-                        </div>
-                    </div>
-					<div class="zoom">
-						<a href="dummy/PortfolioWedding/27large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>	
-				</article><!-- /set -->
 				<article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/5small.jpg" alt="Bride Portfolio Photograph" class="scale-with-grid" />
