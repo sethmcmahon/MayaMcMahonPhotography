@@ -363,6 +363,120 @@
                     </article><!-- /set -->
                     <article class="one-third column omega set">
                         <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/40small.jpg" alt="KinKatie books Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2016" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/40large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/41small.jpg" alt="KinKatie ring Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2016" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/41large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/42small.jpg" alt="KinKatie standing on books Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2016" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/42large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/43small.jpg" alt="KinKatie smiling Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2016" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/43large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/44small.jpg" alt="KinKatie holding hands Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2016" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/44large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
+                            <img itemprop="image" src="dummy/PortfolioEngagement/45small.jpg" alt="KinKatie kiss Engagement Portfolio Photograph" class="scale-with-grid" />
+                            <meta itemprop="creator" content="Maya McMahon" />
+                            <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                            <meta itemprop="copyrightYear" content="2016" />
+
+                            <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                                <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                    <meta itemprop="addressLocality" content="Blacksburg" />
+                                    <meta itemprop="addressRegion" content="VA" />
+                                    <meta itemprop="postalCode" content="24060" />
+                                </div>
+                            </div>
+                        </div>
+                        <div class="zoom">
+                            <a href="dummy/PortfolioEngagement/45large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                        </div>  
+                    </article><!-- /set -->
+                    <article class="one-third column omega set">
+                        <div itemscope itemtype="http://schema.org/Photograph">
                             <img itemprop="image" src="dummy/PortfolioEngagement/10small.jpg" alt="MarkAllie pylons Engagement Portfolio Photograph" class="scale-with-grid" />
                             <meta itemprop="creator" content="Maya McMahon" />
                             <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
