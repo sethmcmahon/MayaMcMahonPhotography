@@ -351,6 +351,7 @@
 								<li>Makeup: Julia Hager</li>
 								<li>Videographer: <a itemprop="url" href="http://www.bear-creek-studios.com/" target="_blank">Bear Creek Studios</a></li>
 								<li>Wedding Coordinator: Robin Hardee</li>
+								<li>Wedding Planner: <a itemprop="url" href="http://elegancebymarivic.com/" target="_blank">Elegance By Marivic</a></li>
                             </ul>
 						</article><!-- /vendors -->
 					</div><!-- eight -->
