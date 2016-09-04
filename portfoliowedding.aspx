@@ -21,6 +21,177 @@
             <div class="row col-listing">
             <article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/211small.jpg" alt="Kruzliak bride groom campus Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/211large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/212small.jpg" alt="Kruzliak rings Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/212large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/213small.jpg" alt="Kruzliak groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/213large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/214small.jpg" alt="Kruzliak groomsmen Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/214large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/215small.jpg" alt="Kruzliak bride groom pylons Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/215large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/216small.jpg" alt="Kruzliak groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/216large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/217small.jpg" alt="Kruzliak guests Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/217large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/218small.jpg" alt="Kruzliak bride flowers Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/218large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/219small.jpg" alt="Kruzliak bride groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Blacksburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24060" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/219large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/197small.jpg" alt="Finney bride getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
@@ -2924,25 +3095,6 @@
                     </div>
                     <div class="zoom">
                         <a href="dummy/PortfolioWedding/150large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-                    </div>  
-                </article><!-- /set -->
-                <article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/151small.jpg" alt="Hawley groomsmen Wedding Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2015" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24019" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="zoom">
-                        <a href="dummy/PortfolioWedding/151large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                     </div>  
                 </article><!-- /set -->
                 <article class="one-third column omega set">
