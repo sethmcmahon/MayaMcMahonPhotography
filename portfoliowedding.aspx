@@ -21,7 +21,7 @@
             <div class="row col-listing">
             <article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/188small.jpg" alt="Johnson bride groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <img itemprop="image" src="dummy/PortfolioWedding/197small.jpg" alt="Finney bride getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
                         <meta itemprop="copyrightYear" content="2016" />
@@ -31,6 +31,234 @@
                                 <meta itemprop="addressLocality" content="Roanoke" />
                                 <meta itemprop="addressRegion" content="VA" />
                                 <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/197large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/198small.jpg" alt="Finney getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/198large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/199small.jpg" alt="Finney ring on shoe Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/199large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/200small.jpg" alt="Finney dress Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/200large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/201small.jpg" alt="Finney signs Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/201large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/202small.jpg" alt="Finney ceremony Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/202large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/203small.jpg" alt="Finney bride and groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/203large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/204small.jpg" alt="Finney bride Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/204large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/206small.jpg" alt="Finney bride flowers ready Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/206large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/208small.jpg" alt="Finney reception box Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/208large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/209small.jpg" alt="Finney bride and groom walking Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/209large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/210small.jpg" alt="Finney sparklers Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24016" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/210large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/188small.jpg" alt="Johnson bride groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Christiansburg" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -47,9 +275,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -66,9 +294,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -85,9 +313,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -104,9 +332,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -123,9 +351,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -142,9 +370,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -157,13 +385,13 @@
                         <img itemprop="image" src="dummy/PortfolioWedding/195small.jpg" alt="Johnson bride groom sunset Wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2015" />
+                        <meta itemprop="copyrightYear" content="2016" />
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -180,9 +408,9 @@
 
                         <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
                             <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Roanoke" />
+                                <meta itemprop="addressLocality" content="Christiansburg" />
                                 <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24016" />
+                                <meta itemprop="postalCode" content="24073" />
                             </div>
                         </div>
                     </div>
@@ -1613,25 +1841,6 @@
                     </div>
                     <div class="zoom">
                         <a href="dummy/PortfolioWedding/50large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-                    </div>  
-                </article><!-- /set -->
-                <article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/51small.jpg" alt="Boivin Wedding couple Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2014" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Dublin" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24084" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="zoom">
-                        <a href="dummy/PortfolioWedding/51large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                     </div>  
                 </article><!-- /set -->
                 <article class="one-third column omega set">
@@ -3268,26 +3477,7 @@
 						<a href="dummy/PortfolioWedding/5large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
 					</div>	
 				</article><!-- /set -->
-				<article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/7small.jpg" alt="Wedding Ring Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2014" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Blacksburg" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24060" />
-                            </div>
-                        </div>
-                    </div>
-					<div class="zoom">
-						<a href="dummy/PortfolioWedding/7large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-					</div>	
-				</article><!-- /set -->
-            </div><!-- /row -->            
+				</div><!-- /row -->            
         </div><!-- /main -->
     </div><!-- /container -->
     
