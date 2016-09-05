@@ -78,25 +78,6 @@
                 </article><!-- /set -->
                 <article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
-                        <img itemprop="image" src="dummy/PortfolioWedding/235small.jpg" alt="Mitchell bride getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
-                        <meta itemprop="creator" content="Maya McMahon" />
-                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
-                        <meta itemprop="copyrightYear" content="2016" />
-
-                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
-                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
-                                <meta itemprop="addressLocality" content="Lexington" />
-                                <meta itemprop="addressRegion" content="VA" />
-                                <meta itemprop="postalCode" content="24450" />
-                            </div>
-                        </div>
-                    </div>
-                    <div class="zoom">
-                        <a href="dummy/PortfolioWedding/235large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
-                    </div>  
-                </article><!-- /set -->
-                <article class="one-third column omega set">
-                    <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/236small.jpg" alt="Mitchell groom getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
@@ -112,6 +93,25 @@
                     </div>
                     <div class="zoom">
                         <a href="dummy/PortfolioWedding/236large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/235small.jpg" alt="Mitchell bride getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/235large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
                     </div>  
                 </article><!-- /set -->
                 <article class="one-third column omega set">
