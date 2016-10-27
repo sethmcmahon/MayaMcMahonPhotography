@@ -507,7 +507,17 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Musser Wedding photography session from Maya McMahon Photography in 2016.";
             title.Text = "Musser Wedding Photography";
-        }                                        
+        }   
+        else if (Request.CurrentExecutionFilePath.Contains("featuredSweckerWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Swecker Wedding photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Swecker Wedding Photography";       
+        } 
+        else if (Request.CurrentExecutionFilePath.Contains("featuredDickersonFamilyPortrait2016.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Dickerson Family photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Dickerson Family Photography";       
+        }                                  
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }

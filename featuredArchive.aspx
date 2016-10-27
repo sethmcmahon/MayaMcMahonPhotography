@@ -22,6 +22,12 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                 <li class="sixteen columns">
+                        <a href="featuredDickersonFamilyPortrait2016.aspx"><img src="dummy/featuredArchive/featuredDickersonFamilyPortrait2016.jpg" alt="Dickerson Family 2016 Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Dickerson Family</h2>
+                    </li>
+                        <a href="featuredSweckerWedding.aspx"><img src="dummy/featuredArchive/featuredSweckerWedding.jpg" alt="Swecker Wedding Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Brent and Brandi</h2>
+                    </li>
                         <a href="featuredMusserWedding.aspx"><img src="dummy/featuredArchive/featuredMusserWedding.jpg" alt="Musser Wedding Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Hunter and Laura</h2>
                     </li>
