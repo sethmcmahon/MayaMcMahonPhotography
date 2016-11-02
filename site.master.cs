@@ -527,7 +527,12 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Caldwell Wedding photography session from Maya McMahon Photography in 2016.";
             title.Text = "Caldwell Wedding Photography";       
-        }                                     
+        }  
+        else if (Request.CurrentExecutionFilePath.Contains("featuredHardestyWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hardesty Wedding photography session from Maya McMahon Photography in 2016.";
+            title.Text = "Hardesty Wedding Photography";       
+        }                                                      
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
