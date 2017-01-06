@@ -21,6 +21,747 @@
             <div class="row col-listing">
             <article class="one-third column omega set">
                     <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/290small.jpg" alt="Caldwell getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/290large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/291small.jpg" alt="Caldwell necklace Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/291large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/292small.jpg" alt="Caldwell book decoration Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/292large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/293small.jpg" alt="Caldwell flowers at ceremony Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/293large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/294small.jpg" alt="Caldwell groomsmen Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/294large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/295small.jpg" alt="Caldwell bridesmaids flowers Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/295large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/296small.jpg" alt="Caldwell bride and groom walking Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/296large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/297small.jpg" alt="Caldwell bridal party Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/297large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/298small.jpg" alt="Caldwell bride smiling Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/298large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/299small.jpg" alt="Caldwell bouquet Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/299large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/300small.jpg" alt="Caldwell bride and groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/300large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/301small.jpg" alt="Caldwell bride and groom looking at eachother Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/301large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/302small.jpg" alt="Caldwell groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/302large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/303small.jpg" alt="Caldwell rings in flowers Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/303large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/304small.jpg" alt="Caldwell bride and groom from the side Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/304large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/278small.jpg" alt="Swecker ceremony location Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/278large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/279small.jpg" alt="Swecker boutionere Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/279large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/280small.jpg" alt="Swecker rings Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/280large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/281small.jpg" alt="Swecker groomsmen Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/281large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/282small.jpg" alt="Swecker ring bearer Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/282large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/283small.jpg" alt="Swecker bride and father Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/283large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/284small.jpg" alt="Swecker bride and groom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/284large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/285small.jpg" alt="Swecker bouquet Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/285large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/286small.jpg" alt="Swecker bride Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/286large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/287small.jpg" alt="Swecker decoration Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/287large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/288small.jpg" alt="Swecker mom Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/288large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/289small.jpg" alt="Swecker bride and groom kiss Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/289large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+            </article><!-- /set -->
+            <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/266small.jpg" alt="Musser dress Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/266large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div>  
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/267small.jpg" alt="Musser details Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/267large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/268small.jpg" alt="Musser rings Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/268large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/269small.jpg" alt="Musser rings in flowers Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/269large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/270small.jpg" alt="Musser getting ready Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/270large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/271small.jpg" alt="Musser first look Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/271large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/272small.jpg" alt="Musser kiss on shoulder Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/272large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/273small.jpg" alt="Musser by lake Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/273large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/274small.jpg" alt="Musser ceremony Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/274large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/275small.jpg" alt="Musser flower girls Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/275large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/276small.jpg" alt="Musser barn Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/276large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
+                        <img itemprop="image" src="dummy/PortfolioWedding/277small.jpg" alt="Musser cake Wedding Portfolio Photograph" class="scale-with-grid" />
+                        <meta itemprop="creator" content="Maya McMahon" />
+                        <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
+                        <meta itemprop="copyrightYear" content="2016" />
+
+                        <div itemprop="contentLocation" itemscope itemtype="http://schema.org/Place">
+                            <div itemprop="address" itemscope itemtype="http://schema.org/PostalAddress">
+                                <meta itemprop="addressLocality" content="Lexington" />
+                                <meta itemprop="addressRegion" content="VA" />
+                                <meta itemprop="postalCode" content="24450" />
+                            </div>
+                        </div>
+                    </div>
+                    <div class="zoom">
+                        <a href="dummy/PortfolioWedding/277large.jpg" rel="pp" class="view-set"><div class="zoom"></div></a>
+                    </div> 
+                </article><!-- /set -->
+                <article class="one-third column omega set">
+                    <div itemscope itemtype="http://schema.org/Photograph">
                         <img itemprop="image" src="dummy/PortfolioWedding/232small.jpg" alt="Mitchell bride Wedding Portfolio Photograph" class="scale-with-grid" />
                         <meta itemprop="creator" content="Maya McMahon" />
                         <meta itemprop="copyrightHolder" content="Maya McMahon Photography" />
