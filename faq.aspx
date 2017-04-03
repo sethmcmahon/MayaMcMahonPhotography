@@ -29,9 +29,6 @@
 							<h5>Where are you located?</h5>
 							<p>I live near Blacksburg, Virginia and the beautiful campuses of Virginia Tech and Radford University. The mountains of Southwest Virginia have some of the most beautiful spots for pictures.</p>
 
-							<h5>Where are you located?</h5>
-							<p>I live near Blacksburg, Virginia and the beautiful campuses of Virginia Tech and Radford University. The mountains of Southwest Virginia have some of the most beautiful spots for pictures.</p>
-
 							<h5>Will you travel to me?</h5>
 							<p>Of course, I love traveling! I would love to travel to you, for your big day. I charge travel fees if the destination is more than 60 miles outside Blacksburg &#45; then you just need to cover the cost of gas and lodging. Should you have a destination wedding in a foreign county or another state where airfare is concerned, please message me for specific pricing and availability.</p>
 

@@ -22,6 +22,15 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                 <li class="sixteen columns">
+                        <a href="featuredHiltonSarahEngagement.aspx"><img src="dummy/featuredArchive/featuredHiltonSarahEngagement.jpg" alt="Hilton and Sarah Engagement Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Hilton and Sarah</h2>
+                    </li>
+                         <a href="featuredChrisHeatherEngagement.aspx"><img src="dummy/featuredArchive/featuredChrisHeatherEngagement.jpg" alt="Chris and Heather Engagement Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Chris and Heather</h2>
+                    </li>
+                        <a href="featuredMartinFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredMartinFamilyPortrait.jpg" alt="Martin Family Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Martin Family</h2>
+                    </li>
                         <a href="featuredHardestyWedding.aspx"><img src="dummy/featuredArchive/featuredHardestyWedding.jpg" alt="Hardesty Wedding Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Chase and Carter</h2>
                     </li>
