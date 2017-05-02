@@ -535,19 +535,29 @@ public partial class site : System.Web.UI.MasterPage
         }  
         else if (Request.CurrentExecutionFilePath.Contains("featuredMartinFamilyPortrait.aspx"))
         {
-            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Martin Fammily photography session from Maya McMahon Photography in 2017.";
+            metaDescription.Content = "Maya McMahon Photography provides family photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Martin Fammily photography session from Maya McMahon Photography in 2017.";
             title.Text = "Martin Family Photography";       
         } 
         else if (Request.CurrentExecutionFilePath.Contains("featuredChrisHeatherEngagement.aspx"))
         {
-            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Chris and Heather engagement photography session from Maya McMahon Photography in 2017.";
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Chris and Heather engagement photography session from Maya McMahon Photography in 2017.";
             title.Text = "Chris and Heather Engagement Photography";       
         } 
         else if (Request.CurrentExecutionFilePath.Contains("featuredHiltonSarahEngagement.aspx"))
         {
-            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hilton and Sarah engagement photography session from Maya McMahon Photography in 2017.";
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hilton and Sarah engagement photography session from Maya McMahon Photography in 2017.";
             title.Text = "Hilton and Sarah Engagement Photography";       
-        }                                                                                                                                                
+        }      
+        else if (Request.CurrentExecutionFilePath.Contains("featuredBoydSeniorPortrait.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides senior portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Kassandra Boyd Senior photography session from Maya McMahon Photography in 2017.";
+            title.Text = "Kassandra Boyd Senior Portrait Photography";       
+        }    
+        else if (Request.CurrentExecutionFilePath.Contains("featuredChrisSarahEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides senior portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Chris and Sarah Engagement photography session from Maya McMahon Photography in 2017.";
+            title.Text = "Chris and Sarah Engagement Photography";       
+        }                                                                                                                                                       
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
