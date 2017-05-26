@@ -562,7 +562,12 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Zuniga Wedding photography session from Maya McMahon Photography in 2017.";
             title.Text = "Zuniga Wedding Photography";       
-        }                                                                                                                                                       
+        } 
+        else if (Request.CurrentExecutionFilePath.Contains("featuredGaryAmyEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Gary and Amy Engagement photography session from Maya McMahon Photography in 2017.";
+            title.Text = "Gary and Amy Engagement Photography";       
+        }                                                                                                                                                                 
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
