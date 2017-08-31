@@ -22,8 +22,17 @@
             <div class="row col-listing">
 		        <ul class="photo-set group">
                 <li class="sixteen columns">
+                        <a href="featuredEppardWedding.aspx"><img src="dummy/featuredArchive/featuredEppardWedding.jpg" alt="Eppard Wedding Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Derrick and Katie</h2>
+                    </li>
                         <a href="featuredHartsockFamilyPortrait.aspx"><img src="dummy/featuredArchive/featuredHartsockFamilyPortrait.jpg" alt="Hartsock Family Portrait Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Hartsock Family</h2>
+                    </li>
+                        <a href="featuredMeadeGalyeanWedding.aspx"><img src="dummy/featuredArchive/featuredMeadeGalyeanWedding.jpg" alt="Meade Galyean Wedding Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Hilton and Sarah</h2>
+                    </li>
+                        <a href="featuredGraysonBrieEngagement.aspx"><img src="dummy/featuredArchive/featuredGraysonBrieEngagement.jpg" alt="Grayson and Brie Engagement Banner" class="scale-with-grid" /></a>
+                        <h2 class="archive-title">Grayson and Brie</h2>
                     </li>
                         <a href="featuredSakryWedding.aspx"><img src="dummy/featuredArchive/featuredSakryWedding.jpg" alt="Sakry Wedding Banner" class="scale-with-grid" /></a>
                         <h2 class="archive-title">Trevor and Courtney</h2>

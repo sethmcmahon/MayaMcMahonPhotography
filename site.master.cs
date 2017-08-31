@@ -577,12 +577,22 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides wedding portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Sakry Wedding photography session from Maya McMahon Photography in 2017.";
             title.Text = "Sakry Wedding Photography";       
-        }  
+        }
+         else if (Request.CurrentExecutionFilePath.Contains("featuredMeadeGalyeanWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Meade Galyean Wedding photography session from Maya McMahon Photography in 2017.";
+            title.Text = "Meade Galyean Wedding Photography";       
+        }      
           else if (Request.CurrentExecutionFilePath.Contains("featuredHartsockFamilyPortrait.aspx"))
         {
             metaDescription.Content = "Maya McMahon Photography provides family portrait photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Hartsock Family photography session from Maya McMahon Photography in 2017.";
             title.Text = "Hartsock Family Portrait Photography";       
-        }                                                                                                                                                                  
+        }  
+           else if (Request.CurrentExecutionFilePath.Contains("featuredEppardWedding.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides wedding photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Eppard Wedding photography session from Maya McMahon Photography in 2017.";
+            title.Text = "Eppard Wedding Photography";       
+        }                                                                                                                                                               
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
