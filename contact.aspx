@@ -72,7 +72,7 @@ Feel free to contact me any time. I look forward to speaking with you about your
 girl. My father used to develop his own film and prints and always had a camera around. He passed his love
 of photography on to me. While in College I also began developing my own work. Pictures are very
 important as they create a lasting memory after the event is over.</br></br>
-Besides photography, I enjoy spending time with my husband and my three beautiful children. I also love baseball! I am a die hard baseball fan and would love to travel to every
+Besides photography, I enjoy spending time with my husband and my four beautiful children. I also love baseball! I am a die hard baseball fan and would love to travel to every
 professional stadium in the country. I also have a bachelor's degree in history and that is another passion
 of mine. I am fascinated with the American Civil War. Living in Virginia puts me in Civil War heaven. I have
 a lot of experience photographing living history exhibits.
