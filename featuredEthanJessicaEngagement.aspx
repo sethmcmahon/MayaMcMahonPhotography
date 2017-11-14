@@ -89,7 +89,7 @@
 		        	<div class="eight columns alpha">
 						<article class="entry">
                             <div style="width: 100%; overflow: hidden;">
-                                <div style="float: left;"><h4>Garden Tour</h4></div>
+                                <div style="float: left;"><h4>A Hokie Engagement</h4></div>
                             </div>
 							<p>I met up with Ethan and Jessica for their engagement session on the beautiful campus of Virginia Tech. Jessica and Ethan met during Jessica&#39;s freshman year at Tech. Ethan was a supervisor for Virginia Tech Rec Sports and Jessica was an intramural sports referee, and met at a work social at one of their now favorite pizza places in Blacksburg, PK&#39;s. Living and working out of the area now, Ethan and Jessica were back in town for a friend&#39;s wedding and we decided to knock out the session at the same time. After roaming around the campus, we decided to try our luck at the football field. Big Hokie fans, Ethan and Jessica were so thrilled to be on the field. As a couple they love to cook together, rock climb, and spend time watching sports (mainly Hokie football). They also enjoy riding bikes and hiking. I have the great privilege to be photographing their wedding in September! These two are so cute together and we had a few laughs as we roamed around the campus. Ethan and Jessica are very excited to start their new life together. May they have a long and wonderful life together. Congratulations Ethan and Jessica!</p>
 						</article><!-- /post -->

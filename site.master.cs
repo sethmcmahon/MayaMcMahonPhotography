@@ -617,7 +617,12 @@ public partial class site : System.Web.UI.MasterPage
         {
             metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Ethan and Jessica Engagement photography session from Maya McMahon Photography in 2017.";
             title.Text = "Ethan and Jessica Engagement Photography";  
-        }                                                                                                                                                                      
+        }  
+        else if (Request.CurrentExecutionFilePath.Contains("featuredJakeJoelleEngagement.aspx"))
+        {
+            metaDescription.Content = "Maya McMahon Photography provides engagement photography services for Blacksburg, Christiansburg, Giles, Montgomery and Roanoke. This page features the Jake and Joelle Engagement photography session from Maya McMahon Photography in 2017.";
+            title.Text = "Jake and Joelle Engagement Photography";  
+        }                                                                                                                                                                              
         myHead.Controls.Add(title);
         myHead.Controls.Add(metaDescription);
     }
